@@ -16,6 +16,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web Development" },
+    { "name": "Game Development" },
     { "name": "3D Modeling" }
   ],
   "skills": [
@@ -63,7 +64,6 @@
       ]
     }
   ],
-  "volunteer": [ ],
   "awards": [
     {
       "title": "State of Hawai'i B Plus Scholarship",
