@@ -6,16 +6,17 @@
     "email": "yuhang34@hawaii.edu",
     "phone": "808-219-4619",
     "website": "https://mike-yuhang-wu.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i.  I expect to graduate in Spring 2027.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i.&nbsp;&nbsp;I expect to graduate in Spring 2027.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mike-yuhang-wu", "url": "http://github.com/mike-yuhang-wu" },
-      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/mike-yuhang-wu" }
+      { "network": "linkedin", "username": "Yuhang (Mike) Wu", "url": "https://www.linkedin.com/in/mike-yuhang-wu" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Web Development" }
+    { "name": "Web Development" },
+    { "name": "3D Modeling" }
   ],
   "skills": [
     {
@@ -24,15 +25,15 @@
     },
     {
       "name": "Tools",
-      "keywords": [ "VSCode", "Why3" ]
+      "keywords": [ "VSCode", "Why3", "Blender" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, Hawaii, USA",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "August 21, 2023",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [ "Discrete Math", "Algorithms", "Linear Algebra" ]
     }
@@ -44,7 +45,7 @@
       "website": "https://www.isec-society.org/index.php",
       "startDate": "2025-02-01",
       "endDate": "Present",
-      "summary": "Update and troubleshooting organization's website.",
+      "summary": "",
       "highlights": [
         "Update and troubleshoot organization's website.",
         "Respond to clients' questions and requests."
@@ -65,21 +66,21 @@
   "volunteer": [ ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "State of Hawai'i B Plus Scholarship",
       "date": "2023-2025",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to undergraduates who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public high school."
     },
     {
       "title": "Seal of Biliteracy",
       "date": "2023",
       "awarder": "The Hawai'i State Board of Education",
-      "summary": "The Hawai'i State Board of Education established a Seal of Biliteracy to be awarded upon graduation to students who demonstrate a high proficiency in both of the state's two official languages (English and Hawaiian) OR either of the state's two official languages and at least one additional language, including American Sign Language.  I got this honor by demonstrating a high proficiency in both English and Simplified Chinese."
+      "summary": "An honor awarded upon graduation to students who demonstrate a high proficiency in both of the state's two official languages (English and Hawaiian) OR either of the state's two official languages and at least one additional language.&nbsp;&nbsp;I received this honor by demonstrating a high proficiency in both English and Simplified Chinese."
     }
   ],
   "references": [
     {
-      "name": "Available upon request."
+      "name": "Available upon request"
     }
   ]
 }
