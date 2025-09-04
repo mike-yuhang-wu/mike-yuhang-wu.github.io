@@ -18,8 +18,8 @@ Have you ever wonder how will a game developed with C++ by someone who knows not
 
 This is a game where you control a jet in a space background and shoot down whatever appear in front of you.
 
-I developed this game while following a game development tutorial. What was amazing was I added features that was not in the tutorial, such as animation of the jet the player control. Unfortunately, I did not finish this game as the school starts. Below is a video showing me testing this game.
+I developed this game while following a game development tutorial. What was amazing was I added features that was not in the tutorial, such as animation of the jet the player control. Unfortunately, I did not finish this game as the school starts.
 
-<img class="img-fluid" width="100%" height="auto" src="../img/space-shooter/space-shooter-excerpt.mov">
+<!--Here is a <a href="../img/space-shooter/space-shooter-excerpt.mov">video</a> showing me testing this game.-->
 
 Source: <a href="https://github.com/mike-yuhang-wu/space-shooter"><i class="large github icon "></i>mike-yuhang-wu/space-shooter</a>
