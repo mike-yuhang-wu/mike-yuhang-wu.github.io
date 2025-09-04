@@ -43,7 +43,7 @@ Like Python, TypeScript has the ability to infer datatype of variables you defin
 
 ## Differences that I found between TypeScript and other programming languages
 
-One major difference between TypeScript and Java I found at first glance into TypeScript is on the syntax for defining variables. In Java, the datatype of a variable is written before the name of the variable, for example `int myInt = 0;`, while in TypeScript it is the reversed: `let myInt : number = 0;`. This makes me wonder what might be the reason of putting datatype after name of variable.
+One major difference between TypeScript and Java I found at first glance into TypeScript is on the syntax for defining variables. In Java, the datatype of a variable is written before the name of the variable, for example, `int myInt = 0;`, while in TypeScript it is the reversed: `let myInt : number = 0;`. This makes me wonder what might be the reason of putting datatype after name of variable.
 
 ## Conclusion
 
