@@ -27,6 +27,7 @@ Before getting into what I done and learned, let's watch a short <a href="../img
 Below is the main function of the game that calls all neccessary functions to make Space Shooter a game.
 
 ```
+
 int main() {
 	loadImageToPointers();
 
@@ -49,6 +50,7 @@ int main() {
 
 	return 0;
 }
+
 ```
 
 In brief, all this main function did is calling appropriate functions sequencially to:
@@ -63,7 +65,18 @@ As you can imagine, Space Shooter is a jet fighting game so it should have jets.
 
 I searched the web for some jet image, and I didn't like any of them. Therefore I decide pull out the jet model I made with Blender in the past. After adding a little rockets on it, it finally have some appearance of a space ship that plays well with the background of the game.
 
-<img class="img-fluid" width="30%" height="auto" src="../img/space-shooter/space-shooter-hero-blender-project.PNG">
+<div style="display: inline-block;">
+  <img class="img-fluid" width="30%" height="auto" src="../img/space-shooter/space-shooter-hero-blender-project.PNG">
+  <img class="img-fluid" width="30%" height="auto" src="../img/space-shooter/space-shooter-hero-side-view.png">
+  <img class="img-fluid" width="15%" height="auto" src="../img/space-shooter/space-shooter-hero-top-view.png">
+<div>
+
+This jet is handsome, so I decided to let it be the one that the player controls. I need at least one more for enemy jet.
+
+<div style="display: inline-block;">
+  <img class="img-fluid" width="30%" height="auto" src="../img/space-shooter/space-shooter-spirit-blender-project.png">
+  <img class="img-fluid" width="30%" height="auto" src="../img/space-shooter/space-shooter-spirit-top-view.png">
+<div>
 
 ## Graphics
 
