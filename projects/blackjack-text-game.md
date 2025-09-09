@@ -158,16 +158,16 @@ After an initialization with a constructor, an instance of `PokerDeck` contains 
 ```
 
 # Shuffles a deck with a specified time of repeat.
-    def shuffle(self, repeat):
-        for r in range(repeat):
-            split1 = random.randrange(0, int(self.quantity >> 1))       # Choose two random points in the deck. One from the first
-            split2 = random.randrange(split1, self.quantity)            # half of the deck and the other from the range after it.
+def shuffle(self, repeat):
+    for r in range(repeat):
+        split1 = random.randrange(0, int(self.quantity >> 1))       # Choose two random points in the deck. One from the first
+        split2 = random.randrange(split1, self.quantity)            # half of the deck and the other from the range after it.
 
-            portion1 = self.content[:split1]                            # With these two points, split the entire deck into 3
-            portion2 = self.content[split1:split2]                      # parts.
-            portion3 = self.content[split2:]
+        portion1 = self.content[:split1]                            # With these two points, split the entire deck into 3
+        portion2 = self.content[split1:split2]                      # parts.
+        portion3 = self.content[split2:]
 
-            self.content = portion1 + portion3 + portion2               # Switch the order of these parts and combine them.
+        self.content = portion1 + portion3 + portion2               # Switch the order of these parts and combine them.
 ```
 
 The `shuffle` method literally simulates how I would shuffle a deck of poker card!
