@@ -31,6 +31,8 @@ The game's rule is simple:
 6. You may choose to Hit, which gives you a card and House a card.
 7. You may choose to Stand, which compares your hands with House's hands. The person with greater hands wins. Same hands means a tie.
 
+<!--
+
 Below is a table of cards and their corresponding face value.
 
 <table>
@@ -119,6 +121,8 @@ Below is a table of cards and their corresponding face value.
 </table>
 
 <sup>*</sup> Card e and E corresponds to jokers. They exist as an Easter egg, but a player has to read and modify the code themself to enable them.
+
+-->
 
 Here is a copy of the console during a game play:
 
