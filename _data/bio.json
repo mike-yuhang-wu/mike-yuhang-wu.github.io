@@ -14,19 +14,23 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Web Development" },
     { "name": "Game Development" },
+    { "name": "Web Development" },
+    { "name": "Software Engineering" },
     { "name": "3D Modeling" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "JavaScript", "PHP", "Python", "HTML", "CSS" ]
+      "name": "Languages with Decent Understanding",
+      "keywords": [ "Python", "C/C++", "Java", "JavaScript", "TypeScript", "PHP", "HTML", "CSS" ]
     },
     {
-      "name": "Tools",
-      "keywords": [ "VSCode", "Why3", "Blender" ]
+      "name": "Languages with Little Understanding",
+      "keywords": [ "SQL", "OCaml", "WhyML" ]
+    },
+    {
+      "name": "Tools and Frameworks",
+      "keywords": [ "VSCode", "GitHub", "GitKraken", "Why3", "Blender" ]
     }
   ],
   "education": [
@@ -36,7 +40,7 @@
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
-      "courses": [ "Discrete Math", "Algorithms", "Linear Algebra" ]
+      "courses": [ "Algorithms", "Program Structures", "Linear Algebra", "Discrete Mathematics" ]
     }
   ],
   "work": [
@@ -48,8 +52,11 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Update and troubleshoot organization's website.",
-        "Respond to clients' questions and requests."
+        "Implement new features for organization’s website.",
+        "Identify and correct erroneous PHP, HTML, and JavaScript code.",
+        "Help draft and send email to over 25,000 customers worldwide on bi-weekly basis.",
+        "Assist customers with their technical issues with using organization’s website.",
+        "Collaborate with colleagues and supervisors regarding possible improvements upon organization’s website."
       ]
     },
     {
@@ -60,7 +67,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Verify the correctness of a very simple file system with computer checked proofs."
+        "Verify the correctness of a very simple file system with computer checked proofs.",
+        "Learn the basics of program verification tools in less than three months.",
+        "Discuss with colleagues and the supervisor regarding various approach of accomplishing tasks."
       ]
     }
   ],
