@@ -21,7 +21,7 @@ As an end-of-semester project of my introduction to computer science class in hi
 
 About a year later, in 2024, I recreated this game myself with a major improvements on graphics. The game draws a gambling table and poker cards on console or terminal with text.
 
-## Gameplay and Game Rule
+## Gameplay and game rule
 
 The game's rule is simple:
 1. You and House (your opponent) each get 3 cards at the beginning.
