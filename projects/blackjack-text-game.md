@@ -33,10 +33,10 @@ The game's rule is simple:
 
 Below is a table of cards and their corresponding face value.
 
-<table style="text-align: center;">
+<table>
   <tr>
     <td>
-      **Card**
+      <b>Card</b>
     </td>
     <td>
       A
@@ -68,12 +68,16 @@ Below is a table of cards and their corresponding face value.
     <td>
       T, J, Q, K
     </td>
+    <td>
       e<sup>*</sup>
     </td>
+    <td>
       E
     </td>
+  </tr>
+  <tr>
     <td>
-      **Face Value**
+      <b>Face Value</b>
     </td>
     <td>
       1
