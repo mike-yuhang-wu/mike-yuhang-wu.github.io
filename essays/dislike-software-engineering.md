@@ -28,7 +28,7 @@ They often envied white-collar workers who sat comfortably in offices, typing on
 
 ## Why I chose computer science
 
-Not just programmer, there were many office jobs satisfying the stereotype of sitting in offices and typing on keyboards granting a stable high salary per month. And it does not have to be keyboard, papers works too, but of course, not toilet papers and paper towels.
+Not just programmer, there were many office jobs satisfying the stereotype of sitting in offices and typing on keyboards granting a stable high salary per month. And it does not have to be keyboard, paper works too, of course, except toilet paper and paper towel.
 
 Considering my ability as a high school student at the time when I thought about this, I had many possibilities. I could be an artist that draws nice stuff, as I am good at drawing since a young age. I could be a math teacher that teaches algebra, as I am good at mathematics (compared to my high school peers). I could be a 3D modeler or animate producer, as I had already being using Blender for a few of my high school assignments, although it was not required. There were much more I could possibly dream of: a doctor that heals people, an accountant that deals with paperwork, a business guy that dresses in suit and carries contracts, a manager that plans everything, a laboratory scientist that studies marine biology and hangs out with fish all day long, a television news channel host that introduces local cultural activities, just to name a few. If you wonder why I chose to major in computer science as my first choice, it was because my older brother did. I just followed his footstep. His dream was to become a wealthy geek, or at least a wealthy guy.
 
