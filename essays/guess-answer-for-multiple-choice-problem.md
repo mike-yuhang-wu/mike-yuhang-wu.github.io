@@ -8,6 +8,7 @@ published: true
 labels:
   - Guessing
   - Probability
+  - Multiple Choice Problems
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/guess-answer-for-multiple-choice-problem/bubble-sheet.png">
