@@ -16,7 +16,7 @@ labels:
 
 "I love software engineering!"
 
-I wanted to begin this essay with that statement—and I did—but that statement might be a lie. In fact, I did not start my journey in computer science out of love for software engineering, I started it with a passion for money, the slips featuring the number 100 and Benjamin Franklin.
+I wanted to begin this essay with that statement—and I did—but that statement is completely a lie! In fact, I did not start my journey in computer science out of love for software engineering, I started it with a passion for money, the slips featuring the number 100 and Benjamin Franklin.
 
 ## The very beginning
 
