@@ -138,4 +138,4 @@ For me, writing code for this game was more a practice of writing Python in an o
 
 Source: <a href="https://github.com/mike-yuhang-wu/tag-text-game"><i class="large github icon "></i>mike-yuhang-wu/tag-text-game</a>
 
-Note: AI (whose title is "AI Overview") is used to help developing this project.
+Note: AI (whose title was "AI Overview") was used to help developing this project.
