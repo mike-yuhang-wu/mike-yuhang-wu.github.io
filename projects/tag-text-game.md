@@ -137,4 +137,5 @@ class Configuration:
 For me, writing code for this game was more a practice of writing Python in an object oriented way, and using AI tools to accelerate development process. This was the first game I developed that had a large portion of help from an AI. It was true that AI was very helpful, mainly on saving me from spending large amount of time searching the web for minor syntax issues. Again, AI was really helpful.
 
 Source: <a href="https://github.com/mike-yuhang-wu/tag-text-game"><i class="large github icon "></i>mike-yuhang-wu/tag-text-game</a>
+
 Note: AI (whose title is "AI Overview") is used to help this project.
