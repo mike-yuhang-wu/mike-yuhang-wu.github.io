@@ -6,6 +6,8 @@ title: "Blackjack"
 date: 2024
 published: true
 labels:
+  - Game Development
+  - Text-based Game
   - Poker Game
   - Python
   - OOP

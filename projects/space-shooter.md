@@ -9,6 +9,8 @@ labels:
   - Learning
   - Game Development
   - Jet Fighting Game
+  - EasyX
+  - C/C++
 summary: "A game I developed in summer 2023, when I was new to programming."
 ---
 
