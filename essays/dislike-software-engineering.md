@@ -40,7 +40,7 @@ Fortunately, I was lucky, I discovered that I liked computer science, and hence 
 
 ## Why I said I love software engineering was a lie
 
-I have to be clear about what I mean I love software engineering was a lie. I do not hate software engineering, it was that I never experienced software engineering, so I have no reason to love it or hate it. It is the same thing for cyber security. I heard many of my peers in college said they like cyber security, and wanted to work a job in the field. However, for me, I know nothing about cyber security except its name, and thus claiming I like it or claiming I hate it would have no supporting reason or evidence, and would be more of dishonest.
+I have to be clear about what I mean I love software engineering was a lie. I do not hate software engineering, it was that I never experienced software engineering, so I have no reason to love it or hate it. It is the same thing for cyber security. I heard many of my peers in college said they like cyber security, and wanted to work a job in the field. However, for me, I know nothing about cyber security except its name, and thus claiming I love it or claiming I hate it would have no supporting reason or evidence, and would be more of dishonest.
 
 If you wonder if I am interested in knowing more about software engineering, the answer is yes, easy and simple. I just began taking a class about it. Maybe I would like to know more about cyber security also, as well as other branches in computer science.
 
