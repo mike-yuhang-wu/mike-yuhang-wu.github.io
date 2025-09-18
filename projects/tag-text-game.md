@@ -116,7 +116,7 @@ PLAYER WON
 Wanna play another round?
 ```
 
-If you take a look at the <a href="https://github.com/mike-yuhang-wu/tag-text-game">source code</a>, you will find some game settings you can modify at the top of file`tag.py`. The above gameplay was done under the following setting:
+If you take a look at the <a href="https://github.com/mike-yuhang-wu/tag-text-game">source code</a>, you will find some game settings you can modify at the top of the file `tag.py`. The above gameplay was done under the following setting:
 
 ```
 class Configuration:
