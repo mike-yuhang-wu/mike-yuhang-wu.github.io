@@ -7,16 +7,16 @@ date: 2025-09-24
 published: true
 labels:
   - Coding Standard
-  - JavaScript
+  - TypeScript
   - The C Programming Language
 ---
 
 ## Code written without coding standard
 
-The wrote my first few programs in Python with no awareness of coding standard. Although I have lost the code of these programs, I would show you how those code might look like in JavaScript.
+The wrote my first few programs in Python with no awareness of coding standard. Although I have lost the code of these programs, I would show you how those code might look like in TypeScript.
 
 ```
-function a(b : number[]) {
+function a(b : number[]) : number {
   let d = 0;
   for (let i = 0; i < b.length; i++) {
     d += b[i];
@@ -24,9 +24,9 @@ function a(b : number[]) {
   return d;
 }
 
-function a1(c : number) {
+function a1(c : number) : number {
   if (c < 0) {
-    return -c;
+    return -1 * c;
   }
   return c;
 }
@@ -41,7 +41,7 @@ The first thing you might have notice is that function names and variable names 
 The first I learned that has to with coding standard was to give meaningful names to functions and variables. Even if you could eventually figure out the logic behind the code that was named after meaningless letters and numbers, you spent time that you could have saved by letting the person who wrote the code give meaningful name.
 
 ```
-function summation(arr : number[]) {
+function summation(arr : number[]) : number {
   let sum = 0;
   for (let index = 0; index < arr.length; index++) {
     sum += arr[index];
@@ -49,9 +49,9 @@ function summation(arr : number[]) {
   return sum;
 }
 
-function absoluteValue(num : number) {
+function absoluteValue(num : number) : number {
   if (num < 0) {
-    return -num;
+    return -1 * num;
   }
   return num;
 }
@@ -61,7 +61,7 @@ Programs could be clarified more by putting comments nearby.
 
 ```
 // Returns the sum of each number in `arr`.
-function summation(arr : number[]) {
+function summation(arr : number[]) : number {
   let sum = 0;
   for (let index = 0; index < arr.length; index++) {
     sum += arr[index];
@@ -70,9 +70,9 @@ function summation(arr : number[]) {
 }
 
 // Returns the absolute value of `num`.
-function absoluteValue(num : number) {
+function absoluteValue(num : number) : number {
   if (num < 0) {      // `num` is negative, negate `num` and then return the result.
-    return -num;
+    return -1 * num;
   }
   return num;         // `num` is 0 or positive, return `num` directly.
 }
@@ -82,7 +82,7 @@ function absoluteValue(num : number) {
 
 In my program structure class, we had a well documented coding standard that we have to following while writing code for our assignments. We get points deducted if we failed to meet anything specified in the standard. Compared to my previous classes, which no coding standard were enforced and everyone wrote their code in style however they like, program structure class really challenged us on our ability of following instruction of a standard.
 
-Even though the class teaches the C and C++ programming language and assignment were written in those two languages, I would show you using JavaScript how a piece of code might look like following this coding standard.
+Even though the class teaches the C and C++ programming language and assignment were written in those two languages, I would show you using TypeScript how a piece of code might look like following this coding standard.
 
 ```
 /*****************************************************************
@@ -99,7 +99,7 @@ Even though the class teaches the C and C++ programming language and assignment 
 //
 ****************************************************************/
 
-function summation(arr : number[])
+function summation(arr : number[]) : number
 {
   let sum = 0;
 
@@ -125,7 +125,7 @@ function summation(arr : number[])
 //
 ****************************************************************/
 
-function absoluteValue(num : number)
+function absoluteValue(num : number) : number
 {
   let result = num;
 
