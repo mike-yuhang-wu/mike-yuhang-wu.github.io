@@ -219,4 +219,4 @@ In addition to comments, the coding standard from my program structure class als
 All in all, coding standards were usually there to help reducing the difficulty of reading code, by enforcing code writers to write code according to a standard that was designed for this purpose. You could save yourself and human readers of your code time by giving functions and variables meaningful name, and writing comments or documentations for your program.
 
 Note:
-ChatGPT was used to help illustrating the image for this essay.
+ChatGPT was used to help illustrating the image above and editing this essay.
