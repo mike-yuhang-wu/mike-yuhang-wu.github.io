@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Following Coding Standard Made My Code More Readable"
+title: "Following Coding Standard Made My Code More Readable and Elegant"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-24
 published: true
 labels:
   - Coding Standard
+  - JavaScript
+  - The C Programming Language
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/coding-standard/shouldve-asked-yesterday.png">
 
 ## Code written without coding standard
 
@@ -31,6 +31,8 @@ function a1(c : number) {
   return c;
 }
 ```
+
+<img width="200px" class="rounded float-start pe-4" src="../img/coding-standard/shouldve-asked-yesterday.png">
 
 The first thing you might have notice is that function names and variable names are single letters with numbers, having no intuitive sign of what they are and why they are there, and you have to read the code to figure those out. This would be a disaster if the code were more lengthy and complicated than what was above. I have a quote critisizing those kind of code from the internet: "Today, only me and god knows what this piece of code does. Half years later, only god knows."
 
