@@ -20,7 +20,7 @@ For example, Bootstrap 5 is a UI framework that contains a vast collection of pr
 
 Bootstrap 5 provides easy-to-use tools for margins, padding, borders, columns, rows, navigation bars, dropdown menus, just to name a few. With that said, let's see an image of the website I recreated using less than an hour with Bootstrap 5.
 
-<img width="800px" class="rounded float-start pe-4" src="../img/invest-in-learning-ui-framework/murphys-imitated-website.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/invest-in-learning-ui-framework/murphys-imitated-website.png">
 
 The original website is <a href="https://www.murphyshawaii.com/">Murphy's Bar & Grill</a>, which now looks quite different from the version I imitated.
 
@@ -35,4 +35,4 @@ However, investmenting time in learning a UI framework quickly pays off. Once yo
 Bootstrap 5 is a powerful UI framework full of ready-to-use classes and scripts that can be applied directly in HTML. Although it takes some time to learn, it ultimately saves far more time in the long run and allows developers to focus on design, functionality, and creativity instead of repetitive styling details.
 
 Note:
-ChatGPT was used to help illustrating the image above and editing this essay.
+ChatGPT was used to help editing this essay.
