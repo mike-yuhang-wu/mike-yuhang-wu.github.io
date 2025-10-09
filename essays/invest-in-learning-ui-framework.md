@@ -20,9 +20,7 @@ For example, Bootstrap 5 is a UI framework that contains a vast collection of pr
 
 Bootstrap 5 provides easy-to-use tools for margins, padding, borders, columns, rows, navigation bars, dropdown menus, just to name a few. With that said, let's see an image of the website I recreated using less than an hour with Bootstrap 5.
 
-<div class="container-fluid justify-content-center">
-  <img width="800px" class="rounded float-start pe-4" src="../img/invest-in-learning-ui-framework/murphys-imitated-website.png">
-</div>
+<img width="800px" class="rounded float-start pe-4" src="../img/invest-in-learning-ui-framework/murphys-imitated-website.png">
 
 The original website is <a href="https://www.murphyshawaii.com/">Murphy's Bar & Grill</a>, which now looks quite different from the version I imitated.
 
