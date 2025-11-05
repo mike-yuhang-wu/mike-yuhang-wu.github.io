@@ -14,26 +14,26 @@ labels:
 
 The Manoa campus is filled with beautiful and interesting places, but many students miss them because their classes take place within a small area of campus.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
-
-<br><br>
+<div>
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
+    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
+</div>
 
 **Problem:** Many scenic spots on the Manoa campus go unnoticed.  
 **Solution:** *Diamond Matrix: Manoa* is a treasure-hunt style web game that highlights interesting or beautiful campus locations on a map, encouraging students to visit them in person. By exploring these locations, players experience the variety of landscapes across the Manoa campus.
 
 Locations requiring restricted access, such as dorms, are excluded. Below is a sunset view from the Hale Aloha Tower lounge, floor 11.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-tower-sunset.PNG">
-
-<br><br>
+<div>
+    <img width="300px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-tower-sunset.PNG">
+</div>
 
 ## Names of the proposers
 
