@@ -24,12 +24,16 @@ The Manoa campus is filled with beautiful and interesting places, but many stude
 <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
 <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
 
+<br>
+
 **Problem:** Many scenic spots on the Manoa campus go unnoticed.  
 **Solution:** *Diamond Matrix: Manoa* is a treasure-hunt style web game that highlights interesting or beautiful campus locations on a map, encouraging students to visit them in person. By exploring these locations, players experience the variety of landscapes across the Manoa campus.
 
 Locations requiring restricted access, such as dorms, are excluded. Below is a sunset view from the Hale Aloha Tower lounge, floor 11.
 
 <img width="300px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-tower-sunset.PNG">
+
+<br>
 
 ## Names of the proposers
 
