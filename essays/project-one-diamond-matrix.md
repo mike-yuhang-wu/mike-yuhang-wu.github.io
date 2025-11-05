@@ -52,7 +52,7 @@ Locations requiring restricted access, such as dorms, are excluded. Below is a s
 
 ## Names of the proposers
 
-Yuhang proposed this project. The name *Diamond Matrix* came to mind during daydreaming and was refined to *Diamond Matrix: Manoa* for this concept. The idea of the gameplay came from a side mission in Grand Theft Auto: San Andreas, where the player photograph 50 different locations around San Fierro, and sees beautiful landscapes in the meantime.
+Yuhang proposed this project. The name *Diamond Matrix* came to mind during daydreaming and was refined to *Diamond Matrix: Manoa* for this project. The idea of the gameplay came from a side mission in Grand Theft Auto: San Andreas, where the player photograph 50 different locations around San Fierro, and sees beautiful landscapes in the meantime.
 
 ## Mockup page ideas
 
