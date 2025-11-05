@@ -141,3 +141,6 @@ Additional planned features include:
 * **Time-based availability:** Some campus locations close at night or on weekends. The `OpenWeekDay`, `OpenTime`, and `CloseTime` fields can store accessible hour information for each location. A user will be able to see when is a location available for visiting.  
 * **Search hints:** For tall buildings or multi-floor areas, the `FloorNumber` and `Hint` fields can store helpful information for players to narrow their search.  
 * **Multilingual support:** Players can select their preferred language in **Account Settings**, with content dynamically translated from the `Language` table.
+
+Note:
+ChatGPT was used to help editing this essay.
