@@ -15,15 +15,15 @@ labels:
 The Manoa campus is filled with beautiful and interesting places, but many students miss them because their classes take place within a small area of campus.
 
 <div class="d-flex flex-wrap gap-2">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
-    <img width="210px" class="rounded" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
+    <img width="210px" class="rounded object-fit-cover" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
 </div>
 
 **Problem:** Many scenic spots on the Manoa campus go unnoticed.  
@@ -32,7 +32,7 @@ The Manoa campus is filled with beautiful and interesting places, but many stude
 Locations requiring restricted access, such as dorms, are excluded. Below is a sunset view from the Hale Aloha Tower lounge, floor 11.
 
 <div>
-    <img width="300px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-tower-sunset.PNG">
+    <img width="300px" class="rounded" src="../img/project-one-diamond-matrix/uhm-hale-aloha-tower-sunset.PNG">
 </div>
 
 ## Names of the proposers
