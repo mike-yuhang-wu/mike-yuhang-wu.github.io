@@ -22,23 +22,23 @@ The Manoa campus is filled with beautiful and interesting places, but many stude
     margin-bottom: 1rem;
     }
     .image-gallery img {
-    width: 200px;
-    height: 200px;          /* Create uniform boxes */
+    width: 205px;
+    height: 205px;          /* Create uniform boxes */
     object-fit: cover;      /* Crop instead of stretch */
     border-radius: 0.5rem;  /* Rounded corners all around */
     }
 </style>
 
 <div class="image-gallery">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
-    <img width="205px" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
+    <img src="../img/project-one-diamond-matrix/uhm-bird.JPG">
+    <img src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
+    <img src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
+    <img src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
+    <img src="../img/project-one-diamond-matrix/uhm-plant.JPG">
+    <img src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
+    <img src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
+    <img src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
+    <img src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
 </div>
 
 **Problem:** Many scenic spots on the Manoa campus go unnoticed.  
