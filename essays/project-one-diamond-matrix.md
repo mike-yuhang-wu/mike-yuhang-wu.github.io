@@ -15,15 +15,15 @@ labels:
 The Manoa campus is filled with beautiful and interesting places, but many students miss them because their classes take place within a small area of campus.
 
 <div>
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
-    <img width="200px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-bird.JPG">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-dole-street-sunset.JPG">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-hale-aloha-cafe-courtyard.JPG">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sport-field.JPG">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-plant.JPG">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-post-rainbow.JPG">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-sakamaki-rain.png">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-gate-b.png">
+    <img width="210px" class="rounded float-start pe-4" src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
 </div>
 
 **Problem:** Many scenic spots on the Manoa campus go unnoticed.  
@@ -148,3 +148,6 @@ Additional planned features include:
 
 Note:
 ChatGPT was used to help editing this essay.
+
+Author:
+Yuhang Wu
