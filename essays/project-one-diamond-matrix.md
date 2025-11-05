@@ -95,8 +95,6 @@ Players can choose to hide their name from the rankings via **Account Settings**
 
 Administrators have all player features plus access to the **All Account Summary** page, where they can view and manage all user accounts. They can modify or delete accounts using the **Modify Account Form**, and change user privileges between player and administrator.
 
-The first draft of the relational database structure for <i>Diamond Matrix: Manoa</i> is shown below, where each item is a table name, and each subitem is a column name.
-
 ## Database structure ideas
 
 A preliminary relational database schema for *Diamond Matrix: Manoa*, where each item is a table and each subitem is a column:
