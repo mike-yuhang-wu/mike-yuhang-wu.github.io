@@ -97,7 +97,7 @@ The first draft of the relational database structure for <i>Diamond Matrix: Mano
 
 ## Database structure ideas
 
-A preliminary relational database schema for *Diamond Matrix: Manoa*:
+A preliminary relational database schema for *Diamond Matrix: Manoa*, where each item is a table and each subitem is a column:
 
 * `Account`
     * `AccountID`
@@ -149,9 +149,9 @@ The `Account`, `UserInfo`, and `AccountSetting` tables are linked by `AccountID`
 
 Below are some use case examples.
 
-* A new player creates an account, logs in, views the map, and visits a marked location. They find a hidden passcode after looking around, enter it, and unlock a new location.  
+* A new player creates an account, logs in, views the map, and visits a marked location. He finds a hidden passcode after looking around the spot, enters it, and unlocks a new location.  
 * An administrator logs in, opens the **All Account Summary** page, selects an account, upgrades it to administrator status, and logs out.  
-* A player completes the final location, appears on the **Rankings** page, reviews all visited locations on the **Achievements** page, and then disables public ranking visibility in **Account Settings**.
+* A player completes the final location and appears on the **Rankings** page. She reviews all visited locations on the **Achievements** page, and then disables public ranking visibility in **Account Settings**.
 
 ## Beyond the basics
 
@@ -165,4 +165,7 @@ Note:
 ChatGPT was used to help editing this essay.
 
 Author:
+Yuhang Wu
+
+Photo credit:
 Yuhang Wu
