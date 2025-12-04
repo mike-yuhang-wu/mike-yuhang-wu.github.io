@@ -65,6 +65,7 @@ While working on Wonkes Manoa Student Market, I did not intentionally apply desi
 As a result, design pattern does seems useful. Even if they appear in my project without me intentionally using them, they made my project having a nice code structure. As I continue learning, I do hope to learn more about design patterns.
 
 References:
+<br>
 (2025, October 16). *Software design pattern*. Wikipedia. https://en.wikipedia.org/wiki/Software_design_pattern
 (2025, November 7). *Composite pattern*. Wikipedia. https://en.wikipedia.org/wiki/Composite_pattern
 (2025, Octover 17). *Model-view-controller*. Wikipedia. https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
