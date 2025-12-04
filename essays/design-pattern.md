@@ -66,13 +66,13 @@ As a result, design pattern does seems useful. Even if they appear in my project
 
 References:
 <br>
-Software design pattern. *Wikipedia*. Retrieved December 3, 2025, from https://en.wikipedia.org/wiki/Software_design_pattern.
+Software design pattern. *Wikipedia*. Retrieved December 3, 2025, from <a href="https://en.wikipedia.org/wiki/Software_design_pattern">https://en.wikipedia.org/wiki/Software_design_pattern</a>.
 <br>
-Composite pattern. *Wikipedia*. Retrieved December 3, 2025, from https://en.wikipedia.org/wiki/Composite_pattern.
+Composite pattern. *Wikipedia*. Retrieved December 3, 2025, from <a href="https://en.wikipedia.org/wiki/Composite_pattern">https://en.wikipedia.org/wiki/Composite_pattern</a>.
 <br>
-Model-view-controller. *Wikipedia*. Retrieved December 3, 2025, from https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller.
+Model-view-controller. *Wikipedia*. Retrieved December 3, 2025, from <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller</a>.
 <br>
-Decorator pattern. *Wikipedia*. Retrieved December 3, 2025, from https://en.wikipedia.org/wiki/Decorator_pattern.
+Decorator pattern. *Wikipedia*. Retrieved December 3, 2025, from <a href="https://en.wikipedia.org/wiki/Decorator_pattern">https://en.wikipedia.org/wiki/Decorator_pattern</a>.
 
 Note:
 ChatGPT was used to help writing and editing this essay.
