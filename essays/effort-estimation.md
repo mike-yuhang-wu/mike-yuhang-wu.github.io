@@ -49,11 +49,11 @@ Overall, my tracking method was fairly accurate, though it likely deviated from 
 
 Just like I like to think about possible improvements of codes I wrote or things I planned, I do got some ideas on how to do my effort estimation and actual effort tracking better. With large sacrifice on attention and convenience, I can improve accuracy on non-coding effort tracking by having a stopwatch next to me, which I let run when I start inputting non-coding effort, and pause when I stop inputting non-coding effort. When I solve an issue, the time elapsed shown on the stopwatch is exactly my non-coding effort for that issue. 
 
-Beyond that, there may be dedicated tools or techniques for tracking development effort more effectively and less. Maybe my next task is seek one on the internet.
+Beyond that, there may be dedicated tools or techniques for tracking development effort more effectively and less disruptive. Maybe my next task is seek one on the internet.
 
 ## Conclusion
 
-Effort estimation during the Wonkes project was far from perfect, but it helped us scheduling the time slot for solving each issues. Luckily, the inaccurate estimates did not become a drawback, but it will be better if we could make it more accurate. One way is through gaining experience, and another way is to record actual time spent of each issue and use them as reference for similar issues in the future. In brief, it is worthwhile to do effort estimation.
+Effort estimation during the Wonkes project was far from perfect, but it helped us scheduling the time slot for solving each issues. Luckily, the inaccurate estimates did not become a drawback for Wonkes, but it will be better if we could make it more accurate for future projects. One way is through gaining experience, and another way is to record actual time spent on each issue and use them as reference for similar issues in the future. In brief, it is worthwhile to do effort estimation.
 
 Note:
 ChatGPT was used to help illustrating the image above and editing this essay.
