@@ -13,7 +13,7 @@ labels:
 
 ## Why effort estimation?
 
-<img width="100px" class="rounded float-start" src="../img/effort-estimation/puzzle.png">
+<img width="300px" class="rounded float-start me-2 mt-2" src="../img/effort-estimation/puzzle.png">
 
 During the roughly one month me and my teammates spent building our project, [Wonkes](https://wonkes-manoa.github.io/), our workflow followed a pattern: one team member opened an issue, and another picked it up and solved it. This sounds simple, but in fact it required careful planning. All of us had tight schedules like a puzzle game, where only tasks of the right *size* could fit without disrupting everything else.
 
