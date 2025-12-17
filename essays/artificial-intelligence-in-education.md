@@ -148,6 +148,8 @@ The advantage of an AI compared to a teacher in school in tutoring a student is 
 
 Regarding knowledge retention or how well a student may remember knowledges, the traditional teaching method may win. If you ask an AI to explain something, it typically give response but without a way to remember it. However, a teacher can gain experience with teaching and develop ways that help students remember things. For example, my physics teacher create interesting words like PIV to help us remember equations (PIV is for equation P = IV, meaning power is equal to current times voltage).
 
+Regarding practical skill development, teachers still play one important role that AI cannot fully replace, which is telling student what to learn. For example, in ICS 314 we are told to learn JavaScript, then TypeScript, then HTML and CSS, and lastly frameworks like Boostrap and React. This is a nice plan for gradually learning stuff required for developing a web-based final project at the end of the semester. AIs can provide plans, too, but requires one to ask for one. Therefore the traditional teaching method serves as an important initiative for students to start develope practical skills that they need. Both teachers and AIs can help on further educations of the practical skill development.
+
 ## Future considerations
 
 AIs can be used in software engineering education, as it can serve as source that a student can consult at any time. There will be challenges, such as a student rely on AI for getting answers and not learning anything.
