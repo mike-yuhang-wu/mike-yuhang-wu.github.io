@@ -4,7 +4,7 @@ type: essay
 title: "Learning with an Artificial Intelligence"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-16
-published: false
+published: true
 labels:
   - Learning
   - Artificial Intelligence
@@ -85,7 +85,7 @@ As mentioned above, writing code is what I let ChatGPT helped frequently on my f
 
 Just for example, one prompt I had for ChatGPT was
 
-> Right now I am to write the code for the right side of the merchandise detail page. I will need a merch object for testing. The data model for a merchandise in prisma.schema is model Merch { MerchID Int @id @unique @default(autoincrement())...please create an object name testMerch based on these information.
+> Right now I am to write the code for the right side of the merchandise detail page. I will need a merch object for testing. The data model for a merchandise in `prisma.schema is model Merch { MerchID Int @id @unique @default(autoincrement())`...please create an object name testMerch based on these information.
 
 ### Documenting code
 
@@ -130,9 +130,31 @@ I asked ChatGPT to draw other pictures as well, such as the background image for
 
 ## AI's impact on learning and understanding
 
-Discuss how the incorporation of AI has influenced your learning experience. Consider its impact on comprehension, skill development, and problem-solving abilities. Reflect on whether AI technologies have enhanced or challenged your understanding of software engineering concepts.
+Overall, AIs has great influences on my learning experiences. Since I was able to ask AIs like ChatGPT for explanations on things I don't understand, and they give clear and explanative responses, AIs enhanced my learning and understanding of the course materials, as well as the concepts of software engineering. I gained positive impact on my comprehension of codes, and approaches for solving problems in code.
 
+## Practical applications of AIs
 
+I have saw how AIs are used to solve real-world problems. For example, in the organization that I worked for, my colleague who are working on adding manuscripts to be published on our website, used AI to help parsing hundreds of manuscripts and its information into XML codes, which saved him a lot of time. This further proves that AI is very effective at saving us time.
+
+## Challenges and opportunities of using AI
+
+One limitation of using AIs that was argued frequently was if AI made people lose the ability to figure solutions or solve problems themselves. For people who don't wish to think, AI will be a convenient tool for getting correct answers. AIs can be a tutor that can teach or help one learn all day long, but it can also be a digital slave for giving free answers. I can ask ChatGPT to explain a piece of code to me, and I can ask ChatGPT to write the whole Wonkes for me. Whether or not AI can help one learn is based on the willingness of that person to learn. Proudly saying, I am interesting in learning stuffs, so AI is more of a tutor for me.
+
+There is potential opportunity for AIs in software engineering education, but the student learning with AIs should be aware that they should learn.
+
+## Comparative analysis
+
+The advantage of an AI compared to a teacher in school in tutoring a student is time: an AI can be consulted at nearly anytime, while a student can only consult a teacher during class, office hours. Sometime remote communications like email and Discord channel are available, but still require waiting for response. AI typically answer immediately, which makes learning more engaged. Another reason is that AI can make learning more engaged is that AI is not a human, thus a student may ask questions that they may chose to not ask a teacher because they are shy. I is an example; I ask minimal number of questions in class but talk a lot to ChatGPT.
+
+Regarding knowledge retention or how well a student may remember knowledges, the traditional teaching method may win. If you ask an AI to explain something, it typically give response but without a way to remember it. However, a teacher can gain experience with teaching and develop ways that help students remember things. For example, my physics teacher create interesting words like PIV to help us remember equations (PIV is for equation P = IV, meaning power is equal to current times voltage).
+
+## Future considerations
+
+AIs can be used in software engineering education, as it can serve as source that a student can consult at any time. There will be challenges, such as a student rely on AI for getting answers and not learning anything.
+
+## Conclusion
+
+In conclusion, AI is a very nice tool that helps us save time, and is a very nice tutor that helps one learn. This applies to software engineering courses as well. I recommend AI as a tool for helping student learn software engineering in future courses, but be caution and avoid it being abused.
 
 Note:
 ChatGPT was used to help illustrating the image above.
