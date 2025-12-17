@@ -159,4 +159,4 @@ AIs can be used in software engineering education, as it can serve as source tha
 In conclusion, AI is a very nice tool that helps us save time, and is a very nice tutor that helps one learn. This applies to software engineering courses as well. I recommend AI as a tool for helping student learn software engineering in future courses, but be caution and avoid it being abused.
 
 Note:
-ChatGPT was used to help illustrating the image above.
+ChatGPT was used to help illustrating the image above and editing this essay.
