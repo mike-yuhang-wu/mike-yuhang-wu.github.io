@@ -38,7 +38,7 @@ The first thing you might have notice is that function names and variable names 
 
 ## Give meaningful names
 
-The first I learned that has to with coding standard was to give meaningful names to functions and variables. Even if you could eventually figure out the logic behind the code that was named after meaningless letters and numbers, you spent time that you could have saved by letting the person who wrote the code give meaningful name.
+The first thing I learned that is related to coding standard was to give meaningful names to functions and variables. Even if you could eventually figure out the logic behind the code that was named after meaningless letters and numbers, you spent time that you could have saved by letting the person who wrote the code give meaningful name.
 
 ```
 function summation(arr : number[]) : number {
