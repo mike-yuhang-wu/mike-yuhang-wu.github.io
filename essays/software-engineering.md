@@ -12,8 +12,6 @@ labels:
   - Coding Standard
 ---
 
-# A Newcomer's Interpretation on Software Engineering
-
 ## What is software engineering?
 
 If you split the phrase "software engineering" and look each up in a dictionary, then the definition for "software" is a program used by computer and "engineering" is a science and technology involving designing, building, and using engines, machines, and structures. Combining the two definitions, software engineering is a science involving designing, building, and using programs used by computers.
