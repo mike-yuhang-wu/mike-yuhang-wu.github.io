@@ -33,6 +33,8 @@ summary: "A highly-completed school project reflecting what I learned in my soft
 
 ## Wonkes' Birth
 
+<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/connect.jpg">
+
 In the very beginning, I teamed up with four classmates and one community volunteer in my software engineering class, which my college refer as ICS 314, for final project of the course. One requirement of the final project was that it solves an existing issue in the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) or the nearby community. We all had great ideas of what to do for the final project, and we have to pick one that we believe is the best: the one that best fit the skill and ability we have got, the one that solves the biggest problem, and the one that is doable within the project time limit of 4.5 weeks.
 
 One teammate suggested online trash can map for the final project because there may be needs for disposing garbage like lunch boxes and plastic water bottles; another thought an online student market place so there is a better place for stuffs that gets thrown away during dormitory move-out period. My idea was a [landscape collection game](https://mike-yuhang-wu.github.io/essays/project-one-diamond-matrix.html), because there are so much beautiful scenes in the Mānoa campus that got ignored. We discussed and voted, and we all came to an agreement that online trash can map is too easy and the problem it solves is too *light*—there is trash can every where on the Mānoa campus and thus it is not hard to find a trash can. The landscape collection game sounded difficult (although I thought it would be easy) for us, especially the large interactive map and plots that it will have. Therefore we eventually decided to implement an online student market. A few variants of it are Wonkes Market, Wonkes Mānoa Student Market, and Wonkers Bonkers.
@@ -59,10 +61,24 @@ Each member of our team has different strengths, so with the way we split tasks 
 
 There are three milestones we set up for Wonkes. My contributions mainly scattered on [milestone 1](https://github.com/orgs/wonkes-manoa/projects/1) and [milestone 2](https://github.com/orgs/wonkes-manoa/projects/2), and a few in [milestone 3](https://github.com/orgs/wonkes-manoa/projects/3), as you can see in the list of issues on GitHub by clicking these links.
 
-<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/db-model.svg">
+<div>
+	<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/db-model.svg">
 
-One major contribution of mine was the design and set up of the database. I picked this issue because I had experience working with relational database when I worked as a part-time full stack developer at the International Structural Engineering and Construction Society, thus I am confident that I can design a good and working structure for the database. It turns out that my design worked without any error, but nevertheless there is improvements can be made.
+	One major contribution of mine was the design and set up of the database. I picked this issue because I had experience working with relational database when I worked as a part-time full stack developer at the International Structural Engineering and Construction Society, thus I am confident that I can design a good and working structure for the database. It turns out that my design worked without any error, but nevertheless there is improvements can be made.
 
-The picture at the left shows the final database structure of Wonkes. It is slightly different from my original design as it went through a few updates. Originally the merchandise image data are in the table called `Merch`, which is the table where other merchandise information are stored. I moved image data into an individual table called `MerchImage` for clearer structure. Moreover, one of our teammate added a table called `LikedMerch` that stores the like information.
+	The picture at the left shows the final database structure of Wonkes. It is slightly different from my original design as it went through a few updates. Originally the merchandise image data are in the table called `Merch`, which is the table where other merchandise information are stored. I moved image data into an individual table called `MerchImage` for clearer structure. Moreover, one of our teammate added a table called `LikedMerch` that stores the like information.
+</div>
+
+<div>
+	<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
+
+	Another major contribution of mine was the edit of the authenticate system. The template we use to develop Wonkes uses email address and password as sign in credentials. However, we decided to use username and password for Wonkes as sign in credential, and therefore a change has to be made on the authenticate system. I took 10 hours in total to complete this task. ChatGPT was being very helpful with figuring where changes needs to be made.
+</div>
+
+<div>
+	<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
+
+	Another major contribution of mine was the edit of the authenticate system. The template we use to develop Wonkes uses email address and password as sign in credentials. However, we decided to use username and password for Wonkes as sign in credential, and therefore a change has to be made on the authenticate system. I took 10 hours in total to complete this task. ChatGPT was being very helpful with figuring where changes needs to be made.
+</div>
 
 <sup>1</sup>Unfortunately, Wonkes did not survive the 2025 winter due to limited budget, and the link to its storefront may no longer work.
