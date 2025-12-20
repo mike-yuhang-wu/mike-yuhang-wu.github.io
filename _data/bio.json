@@ -25,7 +25,7 @@
     },
     {
       "name": "Tools and Frameworks",
-      "keywords": [ "Blender", "Bootstrap 5", "GitHub", "Github Desktop", "GitKraken", "Next.js", "React", "Visual Studio Code", "Why3" ]
+      "keywords": [ "Blender", "Bootstrap 5", "GitHub", "Github Desktop", "GitKraken", "Next.js", "pgAdmin 4", "React", "Visual Studio Code", "Why3" ]
     }
   ],
   "education": [
@@ -50,7 +50,7 @@
         "Designed a major update for the organization's payment record system.",
         "Drafted and sent marketing email to over 25,000 potential customers worldwide, under supervision.",
         "Implemented a service fee add-on for the organization's e-commerce program.",
-        "Interviewed three competitive candidates for the part-time full stack developer position.",
+        "Interviewed three competitive candidates for a part-time full stack developer position.",
         "Trained a new colleague."
       ]
     },
