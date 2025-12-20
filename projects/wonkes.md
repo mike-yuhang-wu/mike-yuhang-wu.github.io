@@ -51,21 +51,29 @@ Each member of our team has different strengths, so with the way we split tasks 
 
 There are three milestones we set up for Wonkes. My contributions mainly scattered on [milestone 1](https://github.com/orgs/wonkes-manoa/projects/1) and [milestone 2](https://github.com/orgs/wonkes-manoa/projects/2), and a few in [milestone 3](https://github.com/orgs/wonkes-manoa/projects/3), as you can see in the list of issues on GitHub by clicking these links.
 
-<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/db-model.svg">
+<img width="305px" class="rounded float-start me-2 mt-2" src="../img/wonkes/db-model.svg">
 
 The first major contribution of mine was the design and set up of the database. I picked this issue because I had experience working with relational database when I worked as a part-time full stack developer at the International Structural Engineering and Construction Society, thus I am confident that I can design a good and working structure for the database. It turns out that my design worked without any error, but nevertheless there is improvements can be made.
 
 The picture at the left shows the final database structure of Wonkes. It is slightly different from my original design as it went through a few updates. Originally the merchandise image data are in the table called `Merch`, which is the table where other merchandise information are stored. I moved image data into an individual table called `MerchImage` for clearer structure. Moreover, one of our teammate added a table called `LikedMerch` that stores the like information.
 
-<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
+<img width="305px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
 
 The second major contribution of mine was the edit of the authenticate system. The template we use to develop Wonkes uses email address and password as sign in credentials. However, we decided to use username and password for Wonkes as sign in credential, and therefore a change has to be made on the authenticate system. I took ten hours in total to complete this task. ChatGPT was being very helpful with figuring where changes needs to be made.
 
 The third major contribution of mine was the implementation of the emailing system, which is used with the reset forgotten password feature that I implemented. When an user reset the account password that they forgot, we send an email containing a randomly generated 6-digit passcode to the email address the user used to create their Wonkes account. The user will use that passcode to prove that they are the real account owner by entering that passcode on the Wonkes website.
 
-<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-forgot-pwd-1.png">
+<img width="305px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-forgot-pwd-1.png">
 
 The first step was to find a provider that will send email for us, and considering our pity budget, the provider should offer a free or cheap tier. ChatGPT suggested Resend, which we get to send 3,000 emails for free. After a total of four hours writing code and dealing with Resend API, the first email from Wonkes sent successfully.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <style>
 	.image-gallery {
