@@ -233,8 +233,20 @@ layout: home
         <p class="m-0">
           {% for entry in site.data.bio.references %}
             {{ entry.name }}
-            {% if entry.reference and entry.reference.size > 0 %}
-              <em>{{ entry.reference }}</em>
+            {% if entry.ethos and entry.ethos.size > 0 %}
+              ({% for title in entry.ethos %}
+                {{ title }}
+                {% if forloop.last != true %}, {% endif %}
+              {% endfor %})
+            {% endif %}
+            {% if entry.contact and entry.contact.size > 0 %}
+              ({% for c in entry.contact %}
+                {{ c }}
+                {% if forloop.last != true %} | {% endif %}
+              {% endfor %})
+            {% endif %}
+            {% if entry.relationship %}
+              {{ entry.relationship }}
             {% endif %}
           {% endfor %}
         </p>

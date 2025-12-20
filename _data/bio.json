@@ -84,10 +84,13 @@
   "references": [
     {
       "name": "Amarjit Singh",
-      "reference": [
-        "President and Chairman of International Structural Engineering and Construction Society, ",
+      "ethos": [
+        "President and Chairman of International Structural Engineering and Construction Society"
+      ],
+      "contact": [
         "asingh@hawaii.edu"
-      ]
+      ],
+      "relationship": "Dr. Singh is my direct supervisor as a part-time full stack developer at International Structural Engineering and Construction Society."
     }
   ]
 }
