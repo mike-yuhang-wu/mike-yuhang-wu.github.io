@@ -26,7 +26,7 @@ Before getting into what I done and learned, let's watch a short <a href="../img
 
 ## Main Loop of the Game
 
-Below is the main function of the game that calls all neccessary functions to make Space Shooter a game.
+Below is the main function of the game that calls all necessary functions to make Space Shooter a game.
 
 ```
 
@@ -55,7 +55,7 @@ int main() {
 
 ```
 
-In brief, all this main function did is calling appropriate functions sequencially to:
+In brief, all this main function did is calling appropriate functions sequentially to:
 1. Prepare all images, including images of the jet that player control, and the jet that player shoot.
 2. Initial attribute those jets have, such as their initial velocity.
 3. Draw a background image featuring space. Save it for later use.
@@ -117,7 +117,7 @@ Note: All source code of this project came with comment in Chinese. I would not 
 
 ## Graphics for images
 
-The next thing to achieve was to put an image into the graphic window. Unfortunately, the `putimage` function provided by EasyX that puts an image into graphic window does not exactly satisfy the needs here. After putting the image below into the graphic window, the jet in the image was appeared to be surrounded by a black rectange, when its surroundings were supposed to show the background.
+The next thing to achieve was to put an image into the graphic window. Unfortunately, the `putimage` function provided by EasyX that puts an image into graphic window does not exactly satisfy the needs here. After putting the image below into the graphic window, the jet in the image was appeared to be surrounded by a black rectangle, when its surroundings were supposed to show the background.
 
 <div style="display: inline-block;">
   <img class="img-fluid" width="15%" height="auto" src="../img/space-shooter/space-shooter-hero-top-view.png">

@@ -31,7 +31,7 @@ As a result, many of our estimates were based on intuition or personal feelings 
 
 One example was the issue of adding an email feature to Wonkes. I estimated it would take around ten hours, largely because I feared it would be complex. In reality, the task took about three hours of coding and one additional hour to configure an email service provider. ChatGPT played a major role in reducing this time by helping me quickly find providers with free or cheap tiers. Despite the issue was successful solved quickly, the original effort estimate was very inaccurate.
 
-Another example was the implemention of the homepage. We thought it would take about an hour total since it involved no user interaction, just displaying information using basic React components like `Container`, `Card`, and standard HTML elements like `h1` and `p`. It turns out that this issue took nearly three hours because we realized we have to add some buttons to make the page nice enough.
+Another example was the implementation of the homepage. We thought it would take about an hour total since it involved no user interaction, just displaying information using basic React components like `Container`, `Card`, and standard HTML elements like `h1` and `p`. It turns out that this issue took nearly three hours because we realized we have to add some buttons to make the page nice enough.
 
 ## Tracking actual time spent on solving an issue
 

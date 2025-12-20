@@ -20,7 +20,7 @@ This is exactly what I thought is software engineering, and in fact, that is exa
 
 ## My software engineering class
 
-My first software engineering class is refered as ICS 314 by my college. There are many fundamental concepts of software engineering that I learned in this class:
+My first software engineering class is referred as ICS 314 by my college. There are many fundamental concepts of software engineering that I learned in this class:
 
 * Open source software development
 * Configuration management
@@ -40,13 +40,13 @@ To understand what is an user interface framework, it is crucial to know what is
 
 An user interface is a page or panel where users can do operations. For example, the screen, buttons, and knobs on a stove is an user interface where users operate it to heap stove, preheat oven, etc. Another example would be the sign in page of a banking application on a phone, where users input their credentials to sign in to their online bank account.
 
-A framework is a pack of pre-written code where programmers can write their program upon. For example, Bootstrap 5 is a well-known framework that contains a bunch of CSS code and JavaScript code that which specifies the appearance of many web elements, such as buttons, input fields, drop-down menues. With Bootstrap 5, a programmer can create a nice webpage by writing HTML and uses the styles specified by Bootstrap 5 codes. The existence of a framework allows a programmer to build their project without writting all code from scratch, and speeds up the development speed. In essence, a framework are codes that one can start their project with.
+A framework is a pack of pre-written code where programmers can write their program upon. For example, Bootstrap 5 is a well-known framework that contains a bunch of CSS code and JavaScript code that which specifies the appearance of many web elements, such as buttons, input fields, drop-down menus. With Bootstrap 5, a programmer can create a nice webpage by writing HTML and uses the styles specified by Bootstrap 5 codes. The existence of a framework allows a programmer to build their project without writing all code from scratch, and speeds up the development speed. In essence, a framework are codes that one can start their project with.
 
 An user interface framework are frameworks that are specifically for building consistent and beautiful user interfaces for websites and applications. One user interface framework I learned in ICS 314 is React.
 
 ## Coding standards
 
-A coding standard is a set of rules a programmer has to obey while writting code. A coding standard is different from a programming language's syntax, for which the program can not compile if wrong; the purpose of enforcing coding standard is typically to make all code of a project in similar format, which makes future code-review and changing more easy.
+A coding standard is a set of rules a programmer has to obey while writing code. A coding standard is different from a programming language's syntax, for which the program can not compile if wrong; the purpose of enforcing coding standard is typically to make all code of a project in similar format, which makes future code-review and changing more easy.
 
 Different coding standard may require different things, even for the same programming language. For example, one codding language may require squiggly brackets to occupy the same line as function signature or header, and output the code like this:
 

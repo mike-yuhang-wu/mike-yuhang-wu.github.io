@@ -14,7 +14,7 @@ December, the end of the semester, also the time for a interesting final project
 
 ## Overview
 
-The Manoa campus is filled with beautiful and interesting places, but many students miss them because their classes take place within a small area of campus.
+The Mānoa campus is filled with beautiful and interesting places, but many students miss them because their classes take place within a small area of campus.
 
 <style>
     .image-gallery {
@@ -43,8 +43,8 @@ The Manoa campus is filled with beautiful and interesting places, but many stude
     <img src="../img/project-one-diamond-matrix/uhm-stan-sheriff-sunset.png">
 </div>
 
-**Problem:** Many scenic spots on the Manoa campus go unnoticed.  
-**Solution:** *Diamond Matrix: Manoa* is a treasure-hunt style web game that highlights interesting or beautiful campus locations on a map, encouraging students to visit them in person. By exploring these locations, players experience the variety of landscapes across the Manoa campus.
+**Problem:** Many scenic spots on the Mānoa campus go unnoticed.  
+**Solution:** *Diamond Matrix: Mānoa* is a treasure-hunt style web game that highlights interesting or beautiful campus locations on a map, encouraging students to visit them in person. By exploring these locations, players experience the variety of landscapes across the Mānoa campus.
 
 Locations requiring special privilege to access, such as dorms, are excluded. Below is a sunset view from the Hale Aloha Tower dorm lounge, floor 11.
 
@@ -54,7 +54,7 @@ Locations requiring special privilege to access, such as dorms, are excluded. Be
 
 ## Names of the proposers
 
-Yuhang proposed this project. The name *Diamond Matrix* came to mind during daydreaming and was refined to *Diamond Matrix: Manoa* for this project. The idea of the gameplay came from a side mission in *Grand Theft Auto: San Andreas*, where the player photograph 50 different locations around San Fierro, and sees beautiful landscapes along the way.
+Yuhang proposed this project. The name *Diamond Matrix* came to mind during daydreaming and was refined to *Diamond Matrix: Mānoa* for this project. The idea of the gameplay came from a side mission in *Grand Theft Auto: San Andreas*, where the player photograph 50 different locations around San Fierro, and sees beautiful landscapes along the way.
 
 ## Mockup page ideas
 
@@ -84,7 +84,7 @@ Registered users log in through the **Account Log In** page, where they can acce
 
 ### Player Account Features
 
-Players can view a **Map** of the Manoa campus with four active markers. Each marker represents an unexplored location. Clicking a marker opens the **Enter Passcode** page, where the player enters a passcode found on-site to prove that they have visited the location. Once entered, the corresponding marker disappears and a new one unlocks. There will be about 50–70 locations in total.
+Players can view a **Map** of the Mānoa campus with four active markers. Each marker represents an unexplored location. Clicking a marker opens the **Enter Passcode** page, where the player enters a passcode found on-site to prove that they have visited the location. Once entered, the corresponding marker disappears and a new one unlocks. There will be about 50–70 locations in total.
 
 Players can review their explored sites on the **Achievements** page, which lists each location with a photo and brief description.  
 They can also visit the **Rankings** page to see who has completed all locations. Rankings are listed by completion time in chronological order, not how fast the game is passed, since the game emphasizes exploration over competition.  
@@ -97,7 +97,7 @@ Administrators have all player features plus access to the **All Account Summary
 
 ## Database structure ideas
 
-A preliminary relational database schema for *Diamond Matrix: Manoa*, where each item is a table and each subitem is a column:
+A preliminary relational database schema for *Diamond Matrix: Mānoa*, where each item is a table and each subitem is a column:
 
 * `Account`
     * `AccountID`

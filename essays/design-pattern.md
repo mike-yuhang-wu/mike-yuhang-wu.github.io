@@ -20,16 +20,16 @@ These patterns in common sense refer to a series of steps. However, the *pattern
 
 ## My personal workflow
 
-As a newcomer to software engineering, I have not yet learn the official design patterns used in the industry. However, while working on my final project, Wonkes Manoa Student Market, I developed a workflow that helped me design pages with good user experience and manageable code:
+As a newcomer to software engineering, I have not yet learn the official design patterns used in the industry. However, while working on my final project, Wonkes Market, I developed a workflow that helped me design pages with good user experience and manageable code:
 
 1. What's the purpose of the page? Read the issue specifications and understand the requirements.
 2. Is there already a nice UI design I can use as an inspiration? Let's go look for them on the internet!
-3. How can this page split into possibly reusabe components? Implement each component and put them together.
+3. How can this page split into possibly reusable components? Implement each component and put them together.
 4. Where should this page and its components source data? Query the database themselves or take from the parameter? Probably the former for pages and the later for components.
 5. Does this page require authentication? In any case, copy the code from a similar page, and modify as needed.
 6. Don't want to spend time on just coding? Feed the issue and draft to ChatGPT and let it complete it.
-7. Do code reviews, testings, try edge cases, and whatnut.
-8. If good then done. Upload changes, close the GitHub issue, and composite reports as neccessary.
+7. Do code reviews, testings, try edge cases, and whatnot.
+8. If good then done. Upload changes, close the GitHub issue, and composite reports as necessary.
 
 Below is a screenshot of the merchandise detail page I implemented using this pattern.
 
@@ -39,7 +39,7 @@ The page displays the details of a merchandise. I got inspiration on the UI desi
 
 <img width="200px" class="rounded float-start pe-4" src="../img/design-pattern/merch-add.png">
 
-The merchandise detail paeg take input from the URL, and also fetch data from the database. Then the data is passed to the components as parameters. ChatGPT did tremendous of help on structuring the photo preview component and the details component. It turns out that the UI have a good appearance and is interactive, and the code is nice and neat.
+The merchandise detail page take input from the URL, and also fetch data from the database. Then the data is passed to the components as parameters. ChatGPT did tremendous of help on structuring the photo preview component and the details component. It turns out that the UI have a good appearance and is interactive, and the code is nice and neat.
 
 ## The real design pattern
 
@@ -54,7 +54,7 @@ Design patterns are not simply steps of solving a problem, they are highly abstr
 
 ## Design patterns that *surprisingly* appeared in my project
 
-While working on Wonkes Manoa Student Market, I did not intentionally apply design patterns in my work; I did not even know what are design patterns.
+While working on Wonkes Market, I did not intentionally apply design patterns in my work; I did not even know what are design patterns.
 
 * UI elements in the project built from React components, and put together in a hierarchy shape. This resembles the composite pattern.
 * Codes in the project can roughly divide into database model and actions, user views, and controllers. This resembles the MVC pattern.

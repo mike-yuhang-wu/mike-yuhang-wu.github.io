@@ -31,6 +31,16 @@ summary: "A highly-completed school project reflecting what I learned in my soft
 
 <img class="img-fluid" width="100%" height="auto" src="../img/wonkes/wonkes-header.png">
 
+overview
+
+## My contribution
+
+## Difficulties and solution
+
+## My learning
+
+
+
 Have you ever wonder how would a game be like if it was developed with C and C++ by someone who knows nothing about pointers, objects, and all that stuff? Today you would see one here!
 
 In summer 2023, when I was a programming beginner who just learned a little about Python and HTML, I was inspired to create a small game with C and C++, as I saw a tutorial video on Bilibili teaching how. This is a game where you would control a jet in a space background and shoot down whatever appear in front of you. According to this gameplay, I named this game Space Shooter.

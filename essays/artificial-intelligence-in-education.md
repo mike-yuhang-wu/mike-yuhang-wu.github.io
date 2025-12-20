@@ -43,7 +43,7 @@ Yes, I often talk a lot to ChatGPT in prompts. It turns out that ChatGPT made my
 
 ### The final project
 
-The part of the course that I use AI the most often is the final project, [Wonkes](https://wonkes-manoa.github.io/), which I do it with some teammates. I didn't treat it simple as possible because it is a school project (even though ChatGPT seems tend to do so), therefore I planned a lot for Wonkes, and thus results in a lot to do. I tend to do the designings, and let ChatGPT help me do the relatively boring stuffs, such as writting a skeleton for a page, formatting input fields for a form:
+The part of the course that I use AI the most often is the final project, [Wonkes](https://wonkes-manoa.github.io/), which I do it with some teammates. I didn't treat it simple as possible because it is a school project (even though ChatGPT seems tend to do so), therefore I planned a lot for Wonkes, and thus results in a lot to do. I tend to do the designing, and let ChatGPT help me do the relatively boring stuffs, such as writing a skeleton for a page, formatting input fields for a form:
 
 ```
 Now the Merch Detail page is finished. The next task is to redesign the Logout page. Once the user clicks logout, they will be redirected to this page, where the user is being asked whether or not the user is sure to log out. There is a button that user clicks to confirm logout, and a button to cancel. Please redesign the Logout page based on the following template: 'use client'; import { signOut } from 'next-auth/react'; import { Button, Col, Row } from 'react-bootstr
@@ -131,13 +131,13 @@ I added some checkpoints inside the authorize function: async authorize(credenti
 When I manually insert the password, I inserted changeme as is, not hashed. After catching the error thrown during the query, the following is printed onto the terminal: BEGIN QUERY E QUERY FAILED: PrismaClientInitializationError: Invalid prisma.account.findUnique() invocation: Can't reach database server at ***:5432 Please make sure your database server is running at ***:5432. at $n.handleRequestError
 ```
 
-Eventually, the root of the problem was an extra semicolor (;) appear on an environment variable that cause the system to misread something.
+Eventually, the root of the problem was an extra semicolon (;) appear on an environment variable that cause the system to misread something.
 
 ```
 After adjusting the environment variables, the database is connected. After bypassing the hash thingie, using credentials.password === account.Password instead of compare(), I logged in successfully! Now let's work around the hash related stuff.
 ```
 
-Without ChatGPT, this debug might take days, but ChapGPT shrinked it to two hours. The cost? The lost in days of debugging experience.
+Without ChatGPT, this debug might take days, but ChapGPT shrank it to two hours. The cost? The lost in days of debugging experience.
 
 ### Other uses
 
@@ -149,7 +149,7 @@ I asked ChatGPT to draw other pictures as well, such as the background image for
 
 ## AI's impact on learning and understanding
 
-Overall, AIs has great influences on my learning experiences. Since I was able to ask AIs like ChatGPT for explanations on things I don't understand, and they give clear and explanative responses, AIs enhanced my learning and understanding of the course materials, as well as the concepts of software engineering. I gained positive impact on my comprehension of codes, and approaches for solving problems in code.
+Overall, AIs has great influences on my learning experiences. Since I was able to ask AIs like ChatGPT for explanations on things I don't understand, and they give clear responses, AIs enhanced my learning and understanding of the course materials, as well as the concepts of software engineering. I gained positive impact on my comprehension of codes, and approaches for solving problems in code.
 
 ## Practical applications of AIs
 
@@ -165,9 +165,9 @@ There is potential opportunity for AIs in software engineering education, but th
 
 The advantage of an AI compared to a teacher in school in tutoring a student is time: an AI can be consulted at nearly anytime, while a student can only consult a teacher during class, office hours. Sometime remote communications like email and Discord channel are available, but still require waiting for response. AI typically answer immediately, which makes learning more engaged. Another reason is that AI can make learning more engaged is that AI is not a human, thus a student may ask questions that they may chose to not ask a teacher because they are shy. I is an example; I ask minimal number of questions in class but talk a lot to ChatGPT.
 
-Regarding knowledge retention or how well a student may remember knowledges, the traditional teaching method may win. If you ask an AI to explain something, it typically give response but without a way to remember it. However, a teacher can gain experience with teaching and develop ways that help students remember things. For example, my physics teacher create interesting words like PIV to help us remember equations (PIV is for equation P = IV, meaning power is equal to current times voltage).
+Regarding knowledge retention or how well a student may remember knowledge, the traditional teaching method may win. If you ask an AI to explain something, it typically give response but without a way to remember it. However, a teacher can gain experience with teaching and develop ways that help students remember things. For example, my physics teacher create interesting words like PIV to help us remember equations (PIV is for equation P = IV, meaning power is equal to current times voltage).
 
-Regarding practical skill development, teachers still play one important role that AI cannot fully replace, which is telling student what to learn. For example, in ICS 314 we are told to learn JavaScript, then TypeScript, then HTML and CSS, and lastly frameworks like Boostrap and React. This is a nice plan for gradually learning stuff required for developing a web-based final project at the end of the semester. AIs can provide plans, too, but requires one to ask for one. Therefore the traditional teaching method serves as an important initiative for students to start develope practical skills that they need. Both teachers and AIs can help on further educations of the practical skill development.
+Regarding practical skill development, teachers still play one important role that AI cannot fully replace, which is telling student what to learn. For example, in ICS 314 we are told to learn JavaScript, then TypeScript, then HTML and CSS, and lastly frameworks like Bootstrap and React. This is a nice plan for gradually learning stuff required for developing a web-based final project at the end of the semester. AIs can provide plans, too, but requires one to ask for one. Therefore the traditional teaching method serves as an important initiative for students to start develop practical skills that they need. Both teachers and AIs can help on further educations of the practical skill development.
 
 ## Future considerations
 

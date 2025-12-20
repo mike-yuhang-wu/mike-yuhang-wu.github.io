@@ -16,7 +16,7 @@ labels:
 
 Metaphorically speaking, a UI framework is like instant noodles in culinary, the quadratic formula in algebra, or a camera in photography—someone has already done most of the hard work, and you can use their accomplishments as the starting point for your own project.
 
-For example, Bootstrap 5 is a UI framework that contains a vast collection of prewritten CSS and JavaScript code. You can apply these components directly in your HTML to give your website a polished, professional appearance without reinventing the whole wheel.
+For example, Bootstrap 5 is a UI framework that contains a vast collection of pre-written CSS and JavaScript code. You can apply these components directly in your HTML to give your website a polished, professional appearance without reinventing the whole wheel.
 
 Bootstrap 5 provides easy-to-use tools for margins, padding, borders, columns, rows, navigation bars, dropdown menus, just to name a few. With that said, let's see an image of the website I recreated using less than an hour with Bootstrap 5.
 
@@ -28,7 +28,7 @@ The original website is <a href="https://www.murphyshawaii.com/">Murphy's Bar & 
 
 As mentioned above, Bootstrap 5 includes a tremendous amount of CSS and JavaScript code. Of course, it takes time to understand what each CSS class does and how to use them effectively.
 
-However, investmenting time in learning a UI framework quickly pays off. Once you become familiar with the framework, you can develop responsive, visually consistent webpages much faster than writing every line of CSS and JavaScript from scratch yourself.
+However, investing time in learning a UI framework quickly pays off. Once you become familiar with the framework, you can develop responsive, visually consistent webpages much faster than writing every line of CSS and JavaScript from scratch yourself.
 
 ## Conclusion
 

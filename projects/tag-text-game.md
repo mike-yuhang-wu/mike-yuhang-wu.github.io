@@ -16,7 +16,7 @@ summary: "A text game where you are to chase after a target on a map that is als
 
 Tag was a game that I developed in 5 hours with help from AI. Which AI? Honestly, I do not know the name of. It was the AI that often pop up after a Google search, with the title "AI Overview." Hopefully that was enough for a citation to my sole partner.
 
-The idea of this game came from tag game that I played with my classmates on elementary school campus. Imagine the feeling that you were not running on a grassfield but in a complete darkness, and you were not having visualized location of your target but just its coordinate and distance, would that be fun? It might … not. I have to admit, after testing this game, I felt playing tag with friends on a grassfield would be funnier than this game. One lesson learned: it is possible that you do not realize something is a trash until you developed it and tested it.
+The idea of this game came from tag game that I played with my classmates on elementary school campus. Imagine the feeling that you were not running on a grass field but in a complete darkness, and you were not having visualized location of your target but just its coordinate and distance, would that be fun? It might … not. I have to admit, after testing this game, I felt playing tag with friends on a grass field would be funnier than this game. One lesson learned: it is possible that you do not realize something is a trash until you developed it and tested it.
 
 ## Gameplay
 
