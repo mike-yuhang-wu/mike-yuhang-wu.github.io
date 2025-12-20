@@ -33,7 +33,7 @@ summary: "A highly-completed school project reflecting what I learned in my soft
 
 ## Wonkes' Birth
 
-<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/connect.jpg">
+<!-- <img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/connect.jpg"> -->
 
 In the very beginning, I teamed up with four classmates and one community volunteer in my software engineering class, which my college refer as ICS 314, for final project of the course. One requirement of the final project was that it solves an existing issue in the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) or the nearby community. We all had great ideas of what to do for the final project, and we have to pick one that we believe is the best: the one that best fit the skill and ability we have got, the one that solves the biggest problem, and the one that is doable within the project time limit of 4.5 weeks.
 
