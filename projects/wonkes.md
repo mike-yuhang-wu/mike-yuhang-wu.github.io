@@ -4,7 +4,7 @@ type: project
 image: img/wonkes/wonkes-square.png
 title: "Wonkes Market"
 date: 2025
-published: false
+published: true
 labels:
   - Bootstrap 5
   - Coding Standard
@@ -53,6 +53,6 @@ We used a technique called issue driven project management while working on Wonk
 
 In addition to planning issues to list on GitHub, we estimate the time it take to finish each issue, so a teammate can use that to consider if he or she has enough time to finish an issue. That is called [effort estimation](https://mike-yuhang-wu.github.io/essays/effort-estimation.html).
 
-Each member of our team has different strengths, so with the way we split tasks using issue driven project management, we each was able to pick the tasks we can do. For example, Darilyn and Josh are good at front end (e.g. user interface), so they primarily pick issues that relates to the front end; Andrew and Brian are better at back end (e.g. database), so they primarily pick issues that relates to the back end. For me, as a part-time full stack developer at International Structural Engineering and Construction Society, I knew everything a little so I picked from all kinds of issues.
+Each member of our team has different strengths, so with the way we split tasks using issue driven project management, we each was able to pick the tasks we can do. For example, Darilyn and Josh are good at front end (e.g. user interface), so they primarily pick issues that relates to the front end; Andrew and Brian are better at back end (e.g. database), so they primarily pick issues that relates to the back end. For me, as a part-time full stack developer at International Structural Engineering and Construction Society, I knew everything a little so I picked from all kinds of issues. I set up backend stuffs at the beginning and worked on both ends afterwards. Our [team contract](https://docs.google.com/document/d/1qroZlpwSoKRgaHdcHW84i6tGcFYL_FecpEvVHpQUUd8/edit?tab=t.0#heading=h.mobo0m5sq6vj) has more details about how we collaborate.
 
 <sup>1</sup>Unfortunately, Wonkes did not survive the 2025 winter due to limited budget, and the link to its storefront may no longer work.
