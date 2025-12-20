@@ -43,7 +43,7 @@ Naming stuff had always been a confusing problem to me, however, we did not have
 
 There are two main parts of Wonkes: <sup>1</sup>[homepage](https://wonkes-manoa.github.io/) and its [storefront](https://wonkes.vercel.app/). The Wonkes homepage is where people read about details of Wonkes project, its implementation, and the milestones we went through. The Wonkes storefront is where users make listings and sell stuffs. Each Wonkes part is in individual GitHub repository under the same [GitHub organization](https://github.com/orgs/wonkes-manoa/). To see the repository for the homepage, click [here](https://github.com/orgs/wonkes-manoa/); to see the repository for the storefront, click [here](https://github.com/orgs/wonkes-manoa/).
 
-A very small amount of workload falls to the Wonkes homepage: authoring an introduction article for Wonkes, reporting the progress of the Wonkes project, and keeping all screenshots up to date.
+A very small amount of workload falls to the Wonkes homepage: authoring an introduction article for Wonkes, reporting the progress of the Wonkes project, and keeping all screenshots up to date. However, the jobs here does require a huge amount of understanding of how
 
 ## My contribution
 
