@@ -7,8 +7,8 @@ date: 2025
 published: true
 labels:
   - Game Development
-  - Text-based Game
   - Python
+  - Text-Based Game
 summary: "A text game where you are to chase after a target on a map that is also moving around."
 ---
 

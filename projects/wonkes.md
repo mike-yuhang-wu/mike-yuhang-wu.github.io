@@ -1,20 +1,35 @@
 ---
 layout: project
 type: project
-image: img/space-shooter/space-shooter-square.png
-title: "Space Shooter"
-date: 2023
-published: true
+image: img/wonkes/wonkes-square.png
+title: "Wonkes Market"
+date: 2025
+published: false
 labels:
-  - C/C++
-  - EasyX
-  - Game Development
-  - Jet Fighting Game
+  - Bootstrap 5
+  - Coding Standard
+  - CSS
+  - ESLint
+  - Framework
+  - GitHub
+  - HTML
+  - Issue Driven Project Management
   - Learning
-summary: "A game I developed in summer 2023, when I was new to programming."
+  - Next.js
+  - pgAdmin
+  - PostgreSQL
+  - Prisma
+  - React
+  - School Project
+  - Software Engineering
+  - Teamwork
+  - TypeScript
+  - Vercel
+  - Web Development
+summary: "A highly-completed school project reflecting what I learned in my software engineering class."
 ---
 
-<img class="img-fluid" width="100%" height="auto" src="../img/space-shooter/space-shooter-header.png">
+<img class="img-fluid" width="100%" height="auto" src="../img/wonkes/wonkes-header.png">
 
 Have you ever wonder how would a game be like if it was developed with C and C++ by someone who knows nothing about pointers, objects, and all that stuff? Today you would see one here!
 

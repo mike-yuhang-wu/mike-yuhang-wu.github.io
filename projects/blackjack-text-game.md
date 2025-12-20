@@ -7,11 +7,11 @@ date: 2024
 published: true
 labels:
   - Game Development
-  - Text-based Game
+  - Object Oriented Programming
   - Poker Game
   - Python
-  - OOP
   - Remaster
+  - Text-Based Game
 summary: "A poker game you play on console, with simplified game rules."
 ---
 
