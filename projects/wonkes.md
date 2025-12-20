@@ -63,9 +63,9 @@ The second major contribution of mine was the edit of the authenticate system. T
 
 The third major contribution of mine was the implementation of the emailing system, which is used with the reset forgotten password feature that I implemented. When an user reset the account password that they forgot, we send an email containing a randomly generated 6-digit passcode to the email address the user used to create their Wonkes account. The user will use that passcode to prove that they are the real account owner by entering that passcode on the Wonkes website.
 
-The first step was to find a provider that will send email for us, and considering our pity budget, the provider should offer a free or cheap tier. ChatGPT suggested Resend, which we get to send 3,000 emails for free. After a total of four hours writing code and dealing with Resend API, the first email from Wonkes sent successfully.
-
 <img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-forgot-pwd-1.png">
+
+The first step was to find a provider that will send email for us, and considering our pity budget, the provider should offer a free or cheap tier. ChatGPT suggested Resend, which we get to send 3,000 emails for free. After a total of four hours writing code and dealing with Resend API, the first email from Wonkes sent successfully.
 
 <style>
 	.image-gallery {
@@ -75,7 +75,7 @@ The first step was to find a provider that will send email for us, and consideri
 		margin-bottom: 1rem;
 	}
 	.image-gallery img {
-		width: 250px;
+		width: 205px;
 		height: auto;
 		object-fit: cover;      /* Crop instead of stretch */
 		border-radius: 0.5rem;  /* Rounded corners all around */
