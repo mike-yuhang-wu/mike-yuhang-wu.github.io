@@ -25,7 +25,7 @@
     },
     {
       "name": "Tools and Frameworks",
-      "keywords": [ "Blender", "Bootstrap 5", "GitHub", "Github Desktop", "GitKraken", "Next.js", "pgAdmin 4", "React", "Visual Studio Code", "Why3" ]
+      "keywords": [ "Blender", "Bootstrap 5", "GitHub", "Github Desktop", "GitKraken", "MS Excel", "MS Word", "Next.js", "pgAdmin 4", "React", "Visual Studio Code", "Why3" ]
     }
   ],
   "education": [
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "company": "University of Hawai'i at Mānoa",
+      "company": "University of Hawaiʻi at Mānoa",
       "position": "Student Assistant",
       "website": "",
       "startDate": "2024-04-01",
@@ -69,9 +69,9 @@
   ],
   "awards": [
     {
-      "title": "State of Hawai'i B Plus Scholarship",
+      "title": "State of Hawaiʻi B Plus Scholarship",
       "date": "2023-2025",
-      "awarder": "State of Hawaii",
+      "awarder": "State of Hawaiʻi",
       "summary": "Scholarships award to undergraduates who completed a high school curriculum with minimum 3.0 overall GPA, at a Hawaii public high school."
     },
     {
