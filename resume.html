@@ -224,7 +224,7 @@ layout: home
     {% endif %}
 
     {% if site.data.bio.references %}
-    <div class="row pt-4 align-items-center">
+    <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">References</h1>
       </div>
@@ -232,8 +232,9 @@ layout: home
       <div class="col-lg-9">
         <p class="m-0">
           {% for entry in site.data.bio.references %}
-            {{ entry.name }}
+            <b>{{ entry.name }}</b>
             {% if entry.ethos and entry.ethos.size > 0 %}
+              <b>Title:</b>
               {% for title in entry.ethos %}
                 <br/>
                 {{ title }}
@@ -241,6 +242,7 @@ layout: home
               {% endfor %}
             {% endif %}
             {% if entry.contact and entry.contact.size > 0 %}
+              <b>Contact:</b>
               {% for c in entry.contact %}
                 <br/>
                 {{ c }}
