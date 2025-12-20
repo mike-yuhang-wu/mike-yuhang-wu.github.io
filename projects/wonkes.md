@@ -16,7 +16,7 @@ labels:
   - Software Engineering
   - Teamwork
   - Vercel
-summary: "A highly-completed school project reflecting what I learned in my software engineering class."
+summary: "A well-done school team project built from what I learned in my software engineering class."
 ---
 
 <img class="img-fluid" width="100%" height="auto" src="../img/wonkes/wonkes-header.png">
@@ -33,7 +33,7 @@ Naming stuff had always been a confusing problem to me, however, we did not have
 
 ## Overview
 
-There are two main parts of Wonkes: <sup>1</sup>[homepage](https://wonkes-manoa.github.io/) and its [storefront](https://wonkes.vercel.app/). The Wonkes homepage is where people read about details of Wonkes project, its implementation, and the milestones we went through. The Wonkes storefront is where users make listings and sell stuffs. Each Wonkes part is in individual GitHub repository under the same [GitHub organization](https://github.com/wonkes-manoa). To see the repository for the homepage, click [here](https://github.com/wonkes-manoa/wonkes-manoa.github.io); to see the repository for the storefront, click [here](https://github.com/wonkes-manoa/manoa-student-market).
+There are two main parts of Wonkes: [homepage](https://wonkes-manoa.github.io/) and its <sup>1</sup>[storefront](https://wonkes.vercel.app/). The Wonkes homepage is where people read about details of Wonkes project, its implementation, and the milestones we went through. The Wonkes storefront is where users make listings and sell stuffs. Each Wonkes part is in individual GitHub repository under the same [GitHub organization](https://github.com/wonkes-manoa). To see the repository for the homepage, click [here](https://github.com/wonkes-manoa/wonkes-manoa.github.io); to see the repository for the storefront, click [here](https://github.com/wonkes-manoa/manoa-student-market).
 
 A very small amount of workload falls to the Wonkes homepage: authoring an introduction article for Wonkes, writing a manual regarding how to use Wonkes, reporting the progress of the Wonkes project, and keeping all screenshots up to date. However, the jobs here does require a huge amount of understanding of how Wonkes were built, and why it is built that way, and what disadvantage is in the way it is built. For example, the author has to know that Wonkes accept unique username during sign up because username will be used by the users to distinguish other users, and the author has to explain that while going over how to use Wonkes. Another example would be the database structure in the developer guide in the Wonkes homepage. Although we were only able to upload an image of the database structure, the author were expected to know why database is structured the way it is, including which fields has unique or case constraint and why.
 
@@ -116,4 +116,4 @@ Although ChatGPT was able to write the code, but there were still a minor part o
 
 Another precious experience I gain was teamwork. This was the first time I worked in a teams of more than two people for school projects, and I felt I became more extroverted upon the end of this project.
 
-<sup>1</sup>Unfortunately, Wonkes did not survive the 2025 winter due to limited budget, and the link to its storefront may no longer work.
+<sup>1</sup>Unfortunately, Wonkes did not survive the 2025 winter due to limited budget, and the link to its storefront may no longer work after January 14, 2026.
