@@ -6,7 +6,7 @@
     "email": "yuhang34@hawaii.edu",
     "phone": "808-219-4619",
     "website": "https://mike-yuhang-wu.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawai'i.&nbsp;&nbsp;I expect to graduate in Spring 2027.&nbsp;&nbsp;I wish to do game development in the future.",
+    "summary": "I study computer science at the University of Hawaiʻi at Mānoa; I expect to graduate in Spring 2027.&nbsp;&nbsp;I wish to develop games in the future.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mike-yuhang-wu", "url": "http://github.com/mike-yuhang-wu" },
@@ -15,48 +15,43 @@
   },
   "interests": [
     { "name": "Game Development" },
-    { "name": "Web Development" },
     { "name": "Software Engineering" },
     { "name": "3D Modeling" }
   ],
   "skills": [
     {
-      "name": "Languages with Decent Understanding",
-      "keywords": [ "Python", "C/C++", "Java", "JavaScript", "TypeScript", "PHP", "HTML", "CSS" ]
-    },
-    {
-      "name": "Languages with Little Understanding",
-      "keywords": [ "SQL", "OCaml", "WhyML" ]
+      "name": "Familiar Programming Languages",
+      "keywords": [ "C/C++", "CSS", "HTML", "Java", "JavaScript", "PHP", "Python", "SQL", "TypeScript", "WhyML" ]
     },
     {
       "name": "Tools and Frameworks",
-      "keywords": [ "VSCode", "GitHub", "GitKraken", "Why3", "Blender" ]
+      "keywords": [ "Blender", "Bootstrap 5", "GitHub", "Github Desktop", "GitKraken", "Next.js", "React", "Visual Studio Code", "Why3" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawai'i at Mānoa, Honolulu, Hawaii, USA",
-      "area": "Computer Science (expected Spring, 2027)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, Hawaii, USA",
+      "area": "Information and Computer Sciences (Expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "endDate": "Present",
-      "courses": [ "Algorithms", "Program Structures", "Linear Algebra", "Discrete Mathematics" ]
+      "courses": [ "Algorithms", "Calculus", "Discrete Mathematics", "Intro to Computer Science I & II", "Linear Algebra", "Program Structures", "Software Engineering" ]
     }
   ],
   "work": [
     {
       "company": "International Structural Engineering and Construction Society",
-      "position": "IT Staff",
+      "position": "Part-Time Full Stack Developer",
       "website": "https://www.isec-society.org/index.php",
       "startDate": "2025-02-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Create new features and fix bugs for the organization's website. Help customers with their technical issues.",
       "highlights": [
-        "Implement new features for organization’s website.",
-        "Identify and correct erroneous PHP, HTML, and JavaScript code.",
-        "Help draft and send email to over 25,000 customers worldwide on bi-weekly basis.",
-        "Assist customers with their technical issues with using organization’s website.",
-        "Collaborate with colleagues and supervisors regarding possible improvements upon organization’s website."
+        "Designed a major update for the organization's payment record system.",
+        "Drafted and sent marketing email to over 25,000 potential customers worldwide, under supervision.",
+        "Implemented a service fee add-on for the organization's e-commerce program.",
+        "Interviewed three competitive candidates for the part-time full stack developer position.",
+        "Trained a new colleague."
       ]
     },
     {
@@ -64,12 +59,11 @@
       "position": "Student Assistant",
       "website": "",
       "startDate": "2024-04-01",
-      "endDate": "Present",
-      "summary": "",
+      "endDate": "2025-08-01",
+      "summary": "Verify the correctness of a very simple file system with computer-checked proofs.",
       "highlights": [
-        "Verify the correctness of a very simple file system with computer checked proofs.",
-        "Learn the basics of program verification tools in less than three months.",
-        "Discuss with colleagues and the supervisor regarding various approach of accomplishing tasks."
+        "Discussed with colleagues and the supervisor regarding various approach of accomplishing tasks.",
+        "Familiarized with some program verification tools like Why3 in less than three months."
       ]
     }
   ],
@@ -78,18 +72,22 @@
       "title": "State of Hawai'i B Plus Scholarship",
       "date": "2023-2025",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to undergraduates who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public high school."
+      "summary": "Scholarships award to undergraduates who completed a high school curriculum with minimum 3.0 overall GPA, at a Hawaii public high school."
     },
     {
       "title": "Seal of Biliteracy",
       "date": "2023",
-      "awarder": "The Hawai'i State Board of Education",
-      "summary": "An honor awarded upon graduation to students who demonstrate a high proficiency in both of the state's two official languages (English and Hawaiian) OR either of the state's two official languages and at least one additional language.&nbsp;&nbsp;I received this honor by demonstrating a high proficiency in both English and Simplified Chinese."
+      "awarder": "The Hawaiʻi State Board of Education",
+      "summary": "An honor award to students who demonstrate high proficiency in both English and another language upon high school graduation.&nbsp;&nbsp;I received this honor for demonstrating high proficiency in both English and Simplified Chinese."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Amarjit Singh",
+      "reference": [
+        "President and Chairman of International Structural Engineering and Construction Society",
+        "asingh@hawaii.edu"
+      ]
     }
   ]
 }
