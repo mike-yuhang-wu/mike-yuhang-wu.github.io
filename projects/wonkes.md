@@ -26,7 +26,7 @@ labels:
   - TypeScript
   - Vercel
   - Web Development
-summary: "A highly-completed school project reflecting what I learned in my software engineering class."
+summary: "A well-done school team project built from what I learned in my software engineering class."
 ---
 
 <img class="img-fluid" width="100%" height="auto" src="../img/wonkes/wonkes-header.png">
@@ -43,7 +43,7 @@ Naming stuff had always been a confusing problem to me, however, we did not have
 
 ## Overview
 
-There are two main parts of Wonkes: <sup>1</sup>[homepage](https://wonkes-manoa.github.io/) and its [storefront](https://wonkes.vercel.app/). The Wonkes homepage is where people read about details of Wonkes project, its implementation, and the milestones we went through. The Wonkes storefront is where users make listings and sell stuffs. Each Wonkes part is in individual GitHub repository under the same [GitHub organization](https://github.com/wonkes-manoa). To see the repository for the homepage, click [here](https://github.com/wonkes-manoa/wonkes-manoa.github.io); to see the repository for the storefront, click [here](https://github.com/wonkes-manoa/manoa-student-market).
+There are two main parts of Wonkes: [homepage](https://wonkes-manoa.github.io/) and its <sup>1</sup>[storefront](https://wonkes.vercel.app/). The Wonkes homepage is where people read about details of Wonkes project, its implementation, and the milestones we went through. The Wonkes storefront is where users make listings and sell stuffs. Each Wonkes part is in individual GitHub repository under the same [GitHub organization](https://github.com/wonkes-manoa). To see the repository for the homepage, click [here](https://github.com/wonkes-manoa/wonkes-manoa.github.io); to see the repository for the storefront, click [here](https://github.com/wonkes-manoa/manoa-student-market).
 
 A very small amount of workload falls to the Wonkes homepage: authoring an introduction article for Wonkes, writing a manual regarding how to use Wonkes, reporting the progress of the Wonkes project, and keeping all screenshots up to date. However, the jobs here does require a huge amount of understanding of how Wonkes were built, and why it is built that way, and what disadvantage is in the way it is built. For example, the author has to know that Wonkes accept unique username during sign up because username will be used by the users to distinguish other users, and the author has to explain that while going over how to use Wonkes. Another example would be the database structure in the developer guide in the Wonkes homepage. Although we were only able to upload an image of the database structure, the author were expected to know why database is structured the way it is, including which fields has unique or case constraint and why.
 
@@ -61,24 +61,69 @@ Each member of our team has different strengths, so with the way we split tasks 
 
 There are three milestones we set up for Wonkes. My contributions mainly scattered on [milestone 1](https://github.com/orgs/wonkes-manoa/projects/1) and [milestone 2](https://github.com/orgs/wonkes-manoa/projects/2), and a few in [milestone 3](https://github.com/orgs/wonkes-manoa/projects/3), as you can see in the list of issues on GitHub by clicking these links.
 
-<div>
-	<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/db-model.svg">
+<img width="285px" class="rounded float-start me-2 mt-2" src="../img/wonkes/db-model.svg">
 
-	One major contribution of mine was the design and set up of the database. I picked this issue because I had experience working with relational database when I worked as a part-time full stack developer at the International Structural Engineering and Construction Society, thus I am confident that I can design a good and working structure for the database. It turns out that my design worked without any error, but nevertheless there is improvements can be made.
+The first major contribution of mine was the design and set up of the database. I picked this issue because I had experience working with relational database when I worked as a part-time full stack developer at the International Structural Engineering and Construction Society, thus I am confident that I can design a good and working structure for the database. It turns out that my design worked without any error, but nevertheless there is improvements can be made.
 
-	The picture at the left shows the final database structure of Wonkes. It is slightly different from my original design as it went through a few updates. Originally the merchandise image data are in the table called `Merch`, which is the table where other merchandise information are stored. I moved image data into an individual table called `MerchImage` for clearer structure. Moreover, one of our teammate added a table called `LikedMerch` that stores the like information.
+The picture at the left shows the final database structure of Wonkes. It is slightly different from my original design as it went through a few updates. Originally the merchandise image data are in the table called `Merch`, which is the table where other merchandise information are stored. I moved image data into an individual table called `MerchImage` for clearer structure. Moreover, one of our teammate added a table called `LikedMerch` that stores the like information.
+
+<img width="285px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
+
+The second major contribution of mine was the edit of the authenticate system. The template we use to develop Wonkes uses email address and password as sign in credentials. However, we decided to use username and password for Wonkes as sign in credential, and therefore a change has to be made on the authenticate system. I took ten hours in total to complete this task. ChatGPT was being very helpful with figuring where changes needs to be made.
+
+The third major contribution of mine was the implementation of the emailing system, which is used with the reset forgotten password feature that I implemented. When an user reset the account password that they forgot, we send an email containing a randomly generated 6-digit passcode to the email address the user used to create their Wonkes account. The user will use that passcode to prove that they are the real account owner by entering that passcode on the Wonkes website.
+
+<img width="285px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-forgot-pwd-1.png">
+
+The first step was to find a provider that will send email for us, and considering our pity budget, the provider should offer a free or cheap tier. ChatGPT suggested Resend, which we get to send 3,000 emails for free. After a total of four hours writing code and dealing with Resend API, the first email from Wonkes sent successfully.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<style>
+	.image-gallery {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+		margin-bottom: 1rem;
+	}
+	.image-gallery img {
+		width: 205px;
+		height: auto;
+		object-fit: cover;      /* Crop instead of stretch */
+		border-radius: 0.5rem;  /* Rounded corners all around */
+	}
+</style>
+
+<div class="image-gallery">
+	<img src="../img/wonkes/auth-change-pwd.png">
+	<img src="../img/wonkes/auth-signout.png">
+	<img src="../img/wonkes/auth-signup.png">
+	<img src="../img/wonkes/general-404-not-found.png">
+	<img src="../img/wonkes/general-coming-soon.png">
+	<img src="../img/wonkes/general-support-1.png">
+	<img src="../img/wonkes/listing-add.png">
+	<img src="../img/wonkes/listing-detail.png">
+	<img src="../img/wonkes/listing-edit-1.png">
+	<img src="../img/wonkes/listing-edit-2.png">
+	<img src="../img/wonkes/listing-my-1.png">
+	<img src="../img/wonkes/listing-my-2.png">
+	<img src="../img/wonkes/listing-view-1.png">
 </div>
 
-<div>
-	<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
+Other contributions of mine include change password page, sign out page, part of the sign up page, 404 not found page, coming-soon page, part of the support page, add listing page, listing detail page, edit listing page, my store page, part of the listing card component in the view listing page, design of Wonkes logo and icon with ChatGPT, and the editing of the text in the Wonkes homepage.
 
-	Another major contribution of mine was the edit of the authenticate system. The template we use to develop Wonkes uses email address and password as sign in credentials. However, we decided to use username and password for Wonkes as sign in credential, and therefore a change has to be made on the authenticate system. I took 10 hours in total to complete this task. ChatGPT was being very helpful with figuring where changes needs to be made.
-</div>
+## What I learned
 
-<div>
-	<img width="300px" class="rounded float-start me-2 mt-2" src="../img/wonkes/auth-signin.png">
+The most important thing I learned while working on Wonkes was that artificial intelligence can help speed up the development process greatly. There were many parts in Wonkes where I design the page and let ChatGPT write the code to build the page. This saved me a lot of time from coding and made me able to more focus on how to make Wonkes a better website.
 
-	Another major contribution of mine was the edit of the authenticate system. The template we use to develop Wonkes uses email address and password as sign in credentials. However, we decided to use username and password for Wonkes as sign in credential, and therefore a change has to be made on the authenticate system. I took 10 hours in total to complete this task. ChatGPT was being very helpful with figuring where changes needs to be made.
-</div>
+Although ChatGPT was able to write the code, but there were still a minor part of the code require manual changes. I did code reviews on the code, and manually edit these code to make them better fit Wonkes' need. Through this process, I got familiar with the directory structure of the template, and how things are arranged together to work. I learned how to query the database with Prisma, how to validate form inputs with Yup, how to show pop up messages with sweet alert library, how to split pages into reusable React components and put them together, and much more.
 
-<sup>1</sup>Unfortunately, Wonkes did not survive the 2025 winter due to limited budget, and the link to its storefront may no longer work.
+Another precious experience I gain was teamwork. This was the first time I worked in a teams of more than two people for school projects, and I felt I became more extroverted upon the end of this project.
+
+<sup>1</sup>Unfortunately, Wonkes did not survive the 2025 winter due to limited budget, and the link to its storefront may no longer work after January 14, 2026.
