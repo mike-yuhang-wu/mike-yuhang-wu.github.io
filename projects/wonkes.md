@@ -6,26 +6,16 @@ title: "Wonkes Market"
 date: 2025
 published: true
 labels:
-  - Bootstrap 5
-  - Coding Standard
-  - CSS
   - ESLint
-  - Framework
   - GitHub
-  - HTML
   - Issue Driven Project Management
   - Learning
   - Next.js
-  - pgAdmin
   - PostgreSQL
-  - Prisma
   - React
-  - School Project
   - Software Engineering
   - Teamwork
-  - TypeScript
   - Vercel
-  - Web Development
 summary: "A well-done school team project built from what I learned in my software engineering class."
 ---
 
