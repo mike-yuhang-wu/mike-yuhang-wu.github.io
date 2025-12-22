@@ -198,11 +198,13 @@ Regarding practical skill development, teachers still play one important role th
 
 ## Future considerations
 
-AIs can be used in software engineering education, as it can serve as source that a student can consult at any time. There will be challenges, such as a student rely on AI for getting answers and not learning anything.
+AI will likely remain part of software engineering education because it can support students anytime. The main challenge is preventing over-reliance-students might use AI for answers instead of learning.
+
+The future should focus on teaching students how to use AI responsibly: use it as a tool for learning, not a replacement for thinking.
 
 ## Conclusion
 
-In conclusion, AI is a very nice tool that helps us save time, and is a very nice tutor that helps one learn. This applies to software engineering courses as well. I recommend AI as a tool for helping student learn software engineering in future courses, but be caution and avoid it being abused.
+In conclusion, AI is a powerful tool for saving time and a convenient tutor for learning, especially in software engineering courses like ICS 314. I recommend AI as a support for learning for future students, but with one warning: if AI is used as a shortcut to avoid thinking, it stops being educational and becomes a danger.
 
 Note:
 ChatGPT was used to help illustrating the image above and editing this essay.
