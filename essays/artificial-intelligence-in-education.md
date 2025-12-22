@@ -45,7 +45,7 @@ Honestly, I don't have a logical reason for that. Maybe a habit or self-challeng
 
 The class also assigned writing tasks—essays about what we learned and what we thought about it—posted on our personal portfolio.
 
-English is not my first language, and I didn't learn it well when I was young, so AI was extremely helpful for improving grammar and tone. One prompt I gave ChatGPT was:
+English is not my first language, and I didn't learn it well when I was young, so AI was extremely helpful for improving grammar and tone for my essay. One prompt I gave ChatGPT was:
 
 ```
 Okay, we finally finished Wonkes! Alright, indeed it is the due date of Wonkes has passed and we have to submit what we have. Luckily it turns out our grades are nice: we got an A overall. Yay! The next thing is to wickedly utilize Wonkes to make us more like a professional by writing essays about the effort we spent. Can you read the following essay and improve it, give it a conclusion, and an interesting title? ## Why effort estimation? In the rougly one…
