@@ -174,17 +174,21 @@ I also used ChatGPT to create other visuals, such as a background image for the 
 
 ## AI's impact on learning and understanding
 
-Overall, AIs has great influences on my learning experiences. Since I was able to ask AIs like ChatGPT for explanations on things I don't understand, and they give clear responses, AIs enhanced my learning and understanding of the course materials, as well as the concepts of software engineering. I gained positive impact on my comprehension of codes, and approaches for solving problems in code.
+Overall, AI had a strong influence on my learning experience. Since I could consult tools like ChatGPT whenever I was stuck, and get clear explanations, AI improved my understanding of the course materials and software engineering concepts. I gained better comprehension of code and better approaches to solving coding problems.
 
-## Practical applications of AIs
+## Practical applications of AI
 
-I have saw how AIs are used to solve real-world problems. For example, in the organization that I worked for, my colleague who are working on adding manuscripts to be published on our website, used AI to help parsing hundreds of manuscripts and its information into XML codes, which saved him a lot of time. This further proves that AI is very effective at saving us time.
+I have also seen AI used in real-world work. In the organization where I worked, a colleague used AI to parse hundreds of manuscripts and convert their information into XML files. That saved him a huge amount of time, and it reinforced my belief that AI is extremely effective at reducing repetitive labor and saving time.
 
 ## Challenges and opportunities of using AI
 
-One limitation of using AIs that was argued frequently was if AI made people lose the ability to figure solutions or solve problems themselves. For people who don't wish to think, AI will be a convenient tool for getting correct answers. AIs can be a tutor that can teach or help one learn all day long, but it can also be a digital slave for giving free answers. I can ask ChatGPT to explain a piece of code to me, and I can ask ChatGPT to write the whole Wonkes for me. Whether or not AI can help one learn is based on the willingness of that person to learn. Proudly saying, I am interesting in learning stuffs, so AI is more of a tutor for me.
+A common concern about AI is whether it makes people lose the ability to solve problems themselves. For people who don't want to think, AI can become a tool for getting answers without thinking or learning.
 
-There is potential opportunity for AIs in software engineering education, but the student learning with AIs should be aware that they should learn.
+AI is like a double-edged sword. AI can be a tutor that supports learning all day, but it can also act like a *digital slave* that hands out solutions for free. I can ask ChatGPT to explain code, or I could ask it to write the entire Wonkes project. Whether AI helps learning depends on the user's willingness to learn.
+
+I'm proud to say I'm interested in learning, so AI functions more like a tutor for me than a cheat's treasure.
+
+AI has real opportunity in software engineering education, but students should stay aware of the temptation to stop thinking.
 
 ## Comparative analysis
 
