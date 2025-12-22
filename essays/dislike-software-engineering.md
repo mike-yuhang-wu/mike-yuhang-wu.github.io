@@ -6,12 +6,12 @@ title: "I Love Software Engineering, I Guess"
 date: 2025-09-17
 published: true
 labels:
-  - Dream
-  - Future
   - Benjamin Franklin
   - Computer Science
-  - Software Development
+  - Dream
+  - Future
   - Game Development
+  - Software Development
 ---
 
 "I love software engineering!"

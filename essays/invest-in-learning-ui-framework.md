@@ -6,9 +6,9 @@ title: "Investing Your Time in Learning UI Framework Really Worths It"
 date: 2025-10-08
 published: true
 labels:
+  - Bootstrap 5
   - Learning
   - UI Framework
-  - Bootstrap 5
   - Web Development
 ---
 

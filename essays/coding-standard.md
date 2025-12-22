@@ -7,8 +7,8 @@ date: 2025-09-24
 published: true
 labels:
   - Coding Standard
-  - TypeScript
   - The C Programming Language
+  - TypeScript
 ---
 
 ## Code written without coding standard

@@ -7,8 +7,8 @@ date: 2025-12-15
 published: true
 labels:
   - Effort Estimation
-  - Time Tracking
   - Software Engineering
+  - Time Tracking
 ---
 
 ## Why effort estimation?

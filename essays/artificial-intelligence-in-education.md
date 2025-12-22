@@ -6,8 +6,8 @@ title: "Learning with an Artificial Intelligence"
 date: 2025-12-16
 published: true
 labels:
-  - Learning
   - Artificial Intelligence
+  - Learning
   - Software Engineering
 ---
 

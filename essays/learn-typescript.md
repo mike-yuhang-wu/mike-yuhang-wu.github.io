@@ -6,9 +6,9 @@ title: "I Never thought of Learning a Programming Language in One Day, and I did
 date: 2025-09-03
 published: true
 labels:
+  - Compare
   - Learning
   - TypeScript
-  - Compare
 ---
 
 <img width="150px" class="rounded float-start pe-4" src="/img/learn-typescript/timing.jpg">

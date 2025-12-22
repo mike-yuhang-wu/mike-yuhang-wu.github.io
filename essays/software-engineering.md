@@ -6,10 +6,10 @@ title: "A Newcomer's Interpretation on Software Engineering"
 date: 2025-12-18
 published: true
 labels:
+  - Coding Standard
   - Learning
   - Software Engineering
   - User Interface Framework
-  - Coding Standard
 ---
 
 ## What is software engineering?
@@ -66,6 +66,8 @@ The existence of a framework allows programmers to avoid writing everything from
 
 A user interface framework is a framework specifically designed for building consistent and visually appealing user interfaces for websites and applications. One user interface framework I learned in ICS 314 is called [React](https://react.dev/).
 
+I can see myself building websites and softwares in the future, because it is very convenient. Indeed, the organization that I work for planned to reimplement their website using frameworks like React and Next.js because they are modern and convenient.
+
 ## Coding standards
 
 A coding standard is a set of rules that programmers must follow when writing code. Coding standards are different from a programming language's syntax rules. While syntax errors prevent a program from successfully compiling or executing, violations of coding standards do not usually stop a program from running. Instead, coding standards exist to ensure that all code in a project follows a similar format, making future code reviews and modifications easier.
@@ -101,9 +103,11 @@ One might wonder whether coding standards can be strictly enforced. In practice,
 <img width="300px" class="rounded float-start me-2 mt-2" src="../img/software-engineering/no-eslint-error.png">
 <img width="300px" class="rounded float-start me-2 mt-2" src="../img/software-engineering/yes-eslint-error.png">
 
-When there is a violation of the configured coding standard, the code responsible for the violation is marked as an ESLint error and underlined with a red squiggly line. The reason for the violation is explained when the programmer hovers the mouse over the error. While this initially serves as a warning, the real enforcement comes from our GitHub repository configuration: it was set up to reject any code submissions that violated the coding standard. As a result, we were forced to fix all violations before successfully submitting our code.
+My Visual Studio Code is configured, so when there is a violation of the configured coding standard, the code responsible for the violation is marked as an ESLint error and underlined with a red squiggly line. The reason for the violation is explained when the programmer hovers the mouse over the error. While this initially serves as a warning, the real enforcement comes from our GitHub repository configuration: it was set up to reject any code submissions that violated the coding standard. As a result, we were forced to fix all violations before successfully submitting our code.
 
 Under these restrictions, code written by different teammates ended up having a very similar style. This consistency made reading other teammates' code much easier. For example, I did not feel much stress when reading another teammate's code because the formatting and structure were familiar and predictable.
+
+I can see myself using coding standard in my future project and even in jobs, because it makes code more easy to read.
 
 ## Conclusion
 

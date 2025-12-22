@@ -6,8 +6,8 @@ title: "Final Project Proposal"
 date: 2025-11-04
 published: true
 labels:
-  - Software Engineering
   - Nextjs
+  - Software Engineering
 ---
 
 December, the end of the semester, also the time for a interesting final project.
