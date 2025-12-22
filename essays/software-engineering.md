@@ -14,13 +14,13 @@ labels:
 
 ## What is software engineering?
 
-If we split the phrase software engineering and look up each word in a dictionary, software is defined as a program used by a computer, and engineering is the science and technology involved in designing, building, and using engines, machines, and structures. By combining these two definitions, software engineering can be understood as a science that involves designing, building, and using computer programs.
+If we split the phrase software engineering and look up each word in a dictionary, software is defined as a program used by a computer, and engineering is the science and technology involved in designing, building, and using engines, machines, and structures. By combining these two definitions, software engineering can be understood as a science that involves designing, building, and using computer programs. Based on this definition, software engineering is not just about writing code, it is also about planning a good structure for the program for long-term maintainability.
 
-This definition closely matches my original understanding of software engineering, and in fact, it accurately describes the field. Examples of software engineering include designing and setting up a website, designing and creating an application for a phone, and designing and implementing an executable program on a computer.
+This definition closely matches my original understanding of software engineering, and in fact, it accurately describes the field. Examples of software engineering include designing and setting up a website, designing and creating an application for a phone, and designing and implementing an executable program on a computer. All of these tasks require thoughtful design, considerations, and decisions, so the program fits the users' needs and is easy to update or expand in the future.
 
 ## My software engineering class
 
-My first software engineering class is referred to as ICS 314 by my college. In this class, I learned many fundamental concepts related to software engineering:
+My first software engineering class is referred to as ICS 314 by my college. In this class, I learned many fundamental concepts related to software engineering that go beyond just writing code:
 
 * Open source software development
 * Configuration management
@@ -32,7 +32,7 @@ My first software engineering class is referred to as ICS 314 by my college. In 
 * Design patterns
 * Ethics in software engineering
 
-In this essay, I'll focus on two of these topics: user interface frameworks and coding standards.
+These concepts are about, technical knowledge, teamwork, project management and organization, and ethical responsibility in software development. These topics made me realized how real-world software engineering work. In this essay, I'll focus on two of these topics: user interface frameworks and coding standards.
 
 ## User interface frameworks
 
