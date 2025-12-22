@@ -11,7 +11,7 @@ labels:
   - Dream
   - Future
   - Game Development
-  - Software Development
+  - Software Engineering
 ---
 
 "I love software engineering!"

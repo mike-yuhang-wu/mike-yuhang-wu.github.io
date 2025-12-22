@@ -6,7 +6,7 @@ title: "Final Project Proposal"
 date: 2025-11-04
 published: true
 labels:
-  - Nextjs
+  - Next.js
   - Software Engineering
 ---
 
