@@ -13,88 +13,109 @@ labels:
 
 ## Introduction
 
-One usage of artificial intelligence or AI is on education. An AI can be one's personal tutor that can be consulted whenever the person want (and have internet access). Other than English grammar, writing, mathematics, and physics, AI can help one learn software engineering. Me, personally, have used an AI called ChatGPT to help me learn in my software engineering class, which my college called it ICS 314. The class even suggest the use of AI on learning.
+One useful role of artificial intelligence or AI is in education. AI can act like a personal tutor that is available whenever you want (as long as you have internet). AI can help with English grammar, writing, math, physics, and even other subjects like software engineering.
+
+In my software engineering class, which my college refer as ICS 314, I personally used an AI called ChatGPT to support my learning and project work. In fact, the class encouraged the use of AI as part of the learning process.
 
 ## Personal experience with AI
 
-There are many places in ICS 314 that I used AI, and there is many places I can but I chose not to use AI.
+There were many places in ICS 314 where I used AI, and many places where I could have used it but chose not to.
 
 ### The experiences
 
-We are introduced many programming languages, techniques, and frameworks in class. We learned them by going over free online tutorials, and also by completing some assignments or what they called "experiences" with them. I did not use AIs while learning these tutorials or working on these assignments, because it is too *early* for me; I am capable of do them myself, so I don't even need to touch AI. The benefit of consulting AI here for me is very small, and the cost is waste of time.
+We were introduced to many programming languages, techniques, and frameworks. We learned them through free online tutorials and by completing assignments which the class called "experiences."
+
+I did not use AI while reading tutorials or working on these early assignments, mainly because it was too *early* for me. I could do them myself, so AI would add very little benefit, and thus using AI here would mostly be a waste of time.
 
 ### The in-class WODs
 
-During class they have assignments called "workout of the day" or WODs, which is a timed quiz focusing on implementing a functionality or a webpage using the tools used within a certain amount of time. Guess what? This is the part of the class that I used AI the least, because the instruction is very long and some of them are given in the form of picture. I don't believe I can input all of them to AI at once. Remember that WODs are timed quizzes: time is precious and every second shall not be wasted. If you noticed that I always turn in my quiz or exam papers at the last moment, the reason is that I don't want to waste time that I spend on checking answers by turning things in early. For that reason, doing the WODs myself is the most common choice I made. Maybe I can benefit from having answers right a way, but at a risck of costing a lot of time and don't get anything good.
+In class, we had timed quizzes called "workout of the day" or WODs. WODs focused on implementing a function or webpage using the tools we learned within a strict time limit.
+
+This is the part of the class where I used AI the least. The instructions were often long, and sometimes in the form of images. I didn’t think I could quickly paste everything into an AI tool in a way that would help.
+
+Since WODs are timed, every second matters. In timed quizzes and exams I tend to turn in my work at the very last moment, because I don't want to waste time I could spend checking my work. For that reason, doing WODs myself was usually the best option. AI might give faster answers, but it also risks costing time and producing something not reliable at all.
 
 ### The in-class practice WODs
 
-Practice WODs are also timed quizzes, but they more focus on practicing instead of figuring how was our learning going along. Similarly, I commonly chose to do them myself instead of using AIs. This is because… actually I don't have a reason for this. Maybe self-challenge of the strong can be a reason? Anyway, the benefit is I can have the answer right a way, at a risk of costing a lot of time and don't get anything good.
+Practice WODs were similar: still timed quizzes, but more focused on training rather than evaluating our learning status. I still usually did them myself rather than using AI.
+
+Honestly, I don't have a strong logical reason for that. Maybe a habit or self-challenge the strong one? But the trade-off was the same: AI could maybe provide quick answers, but it could also waste time.
 
 ### The essays
 
-For example, the class occasionally assign writing assignments, which is to write an essay about what we learning and what we thought about it, and post it on our personal portfolio. Since English is not my first language, and I did not learned it well when I was young, I need AI's help on refining the grammars and tones. One prompt I once gave ChatGPT is
+The class also assigned writing tasks—essays about what we learned and what we thought about it—posted on our personal portfolio.
+
+English is not my first language, and I didn't learn it well when I was young, so AI was extremely helpful for improving grammar and tone. One prompt I gave ChatGPT was:
 
 ```
 Okay, we finally finished Wonkes! Alright, indeed it is the due date of Wonkes has passed and we have to submit what we have. Luckily it turns out our grades are nice: we got an A overall. Yay! The next thing is to wickedly utilize Wonkes to make us more like a professional by writing essays about the effort we spent. Can you read the following essay and improve it, give it a conclusion, and an interesting title? ## Why effort estimation? In the rougly one…
 ```
 
-Yes, I often talk a lot to ChatGPT in prompts. It turns out that ChatGPT made my essay pretty well, although I typically still need to revise the output manually since ChatGPT's writing goes over everything too quick. Nevertheless, the cost of using AI here is none.
+Yes, I often write long prompts, although large portion of them are confides. ChatGPT usually improved my essay a lot, although I still needed to revise the output manually because ChatGPT sometimes moves too quickly through ideas, making text more like a summary rather than explanation. The cost of using AI here felt like nothing, and the benefit was high.
 
 ### The final project
 
-The part of the course that I use AI the most often is the final project, [Wonkes](https://wonkes-manoa.github.io/), which I do it with some teammates. I didn't treat it simple as possible because it is a school project (even though ChatGPT seems tend to do so), therefore I planned a lot for Wonkes, and thus results in a lot to do. I tend to do the designing, and let ChatGPT help me do the relatively boring stuffs, such as writing a skeleton for a page, formatting input fields for a form:
+The part of the course where I used AI the most was the final project, [Wonkes](https://wonkes-manoa.github.io/), which I built with teammates and ChatGPT.
+
+Even though it was a school project, I didn't treat it as something to do in the simplest possible way (even if ChatGPT sometimes pushes that style). I planned a lot for Wonkes, which created a lot of work. My usual workflow was: I do the design and decisions, and I let ChatGPT help with the boring but necessary parts like generating a page skeleton or formatting a form. For example, I used prompts like this to speed up page development:
 
 ```
-Now the Merch Detail page is finished. The next task is to redesign the Logout page. Once the user clicks logout, they will be redirected to this page, where the user is being asked whether or not the user is sure to log out. There is a button that user clicks to confirm logout, and a button to cancel. Please redesign the Logout page based on the following template: 'use client'; import { signOut } from 'next-auth/react'; import { Button, Col, Row } from 'react-bootstr
+Now the Merch Detail page is finished. The next task is to redesign the Logout page. Once the user clicks logout, they will be redirected to this page, where the user is being asked whether or not the user is sure to log out. There is a button that user clicks to confirm logout, and a button to cancel. Please redesign the Logout page based on the following template: 'use client'; import { signOut } from 'next-auth/react'; import { Button, Col, Row } from 'react-bootstr…
 ```
 
-Sometimes problems occur and I don't find a solution, I asked ChatGPT to read the code and find the issue:
+When problems happened and I couldn't find a solution, I asked ChatGPT to inspect code and suggest causes:
 
 ```
 There is a problem that we just found on Wonkes: on dev site images can upload normally when creating a new merch, but on production site only one image can upload successfully and more than one image will fail. The program still notify that the adding/editing merch is successful, but the image did not actually get uploaded to the database (I found no database entry created in the database). What might be the problem, please check the code. The code for add merch form is 'use client'; import { useSession } from 'next-auth/react'; import { Button, Card, Col, Container…
 ```
 
-There are times where I asked ChatGPT for better language usage on the project:
+I also used ChatGPT for language and UI text improvement, like making search bar placeholders shorter:
 
 ```
 I am having a few ideas of what to put as placeholder in seachbars for listings. <Form> <Form.Group controlId="search" className="mb-3"> <Form.Control type="text" placeholder={wordBank[Math.floor(Math.random() * wordBank.length)]} value={search} onChange={(e) => setSearch(e.target.value)} /> </Form.Group> </Form>. Here are the placeholders that will be picked at random. const wordBank = [ '(„• ᴗ •„) Let\'s search something!', '(　-_･) ︻デ═一 ▸ What are you aiming for?', '(⸝⸝⸝O﹏ O⸝⸝⸝) What have we got today?', '(⸝⸝> ᴗ•⸝⸝) Good luck searching your favorite!', '<(￣︶￣)> Proud of what you want today?', 'ヽ(・∀・)ﾉ Aloha, what can search bar find you today?', '(///▽///) Would you embarrass when you search for certain stuff', '(×﹏×) RIP', '(⊃｡•́‿•̀｡)⊃ Hug what you like.', '౦０o ｡ (‾́。‾́ )y~~ Wonkes\' policy banned cigar from sale.', ]; Can you shorten the phrase as much as possible without losing too much of its meaning? Hard words is okay.
 ```
 
-Using AI here has a lot of benefits, and the biggest one is that I saved a lot of time from boring stuffs, and I can have more time to focus on designing the pages and the structures. Of course, the cost is that I don't get practice on doing these boring stuffs, which can become important if I happen to do them without AI, such as during an interview.
+In the final project, AI gave me a lot of value. The biggest benefit was time: I saved time on repetitive work and spent more time on design choices, structure, and debugging.
+
+But there is also a cost: if I let AI do the boring parts, I get less practice doing them myself. That can matter if I need to do those tasks without AI, such as during an interview.
 
 ### Learning a concept or tutorial
 
-Typically the tutorials we read in this class explains things clearly, and I don't need to consult an AI to help on understanding. However, there is one exception, which is how to connect pgAdmin 4 installed on my computer to a local database on my computer. There is a lot of things pgAdmin 4 asks, and I don't know where to find each of them. I searched on the internet about how to do so, and an AI, I guess its name is AI Overview, answered my question and helped me built the connection successfully. There is no cost at asking this AI, but I benefit a lot from this connection as I no longer need to query these databases on the terminal.
+Most tutorials in the class were clear enough that I didn't need AI. However, one exception was connecting pgAdmin 4 on my computer to a local database. pgAdmin asked for many configuration values, and I didn't know where to find them. I searched online, and an AI tool (I think it was called "AI Overview") gave a clear step-by-step guide that helped me build the connection successfully.
 
-### Answering a question in class or Discord
+There wasn't much cost, and the benefit was huge: I no longer needed to query databases through the terminal with command lines.
 
-For ICS 314, I did not used AI to answer classmates' or project teammates' questions in class or Discord channel we used for communication. One reason is that I know the answer, and no need to consult AIs. Another reason is that the question is about a specific part of ICS 314, such as "What coding software are we supposed to use to zip files to do EUT 1 and 2," which the AI won't know the answer. The last reason is I didn't answer the question.
+### Answering a question in class or on Discord
+
+In ICS 314, I did not use AI to answer classmates' or project teammates' questions in class or in Discord.
+
+One reason: sometimes I already knew the answer, so AI wasn't needed. Another reason: many questions were highly course-specific, for example, "What coding software are we supposed to use to zip files to do EUT 1 and 2?" AI wouldn't know the answer. The last reason is simple: I didn't answer the question because someone else already did.
 
 ### Asking or answering a smart question to a classmate
 
-I did not use AI to answer classmates' smart questions; the reason is fairly simple: I don't want to answer them and did not answer any of them, therefore I did not use AI to answer them.
+I didn't use AI to answer classmates' smart questions. The reason is also simple: I didn't want to answer them, and I didn't answer any of them, so I didn't use AI.
 
 ### Coding examples
 
-I did not ask AI to provide coding examples, such as asking questions like "Give an example of how to generate a random number between 10000 to 99999," because I personally prefer to ask for the code I have to write directly, if I do ask an AI. I am a busy person, so I attempt to save time, and thus won't ask coding examples.
+I did not ask AI for small coding examples like "Give an example of how to generate a random number between 10000 to 99999." If I'm going to ask an AI, I usually prefer asking directly for the code I need in my situation. I'm busy and I try to save time, so example-only prompts aren't my style.
 
 ### Explaining code
 
-I personally prefer read codes myself, but when the task gets time-consuming or I can't understand the code, I ask ChatGPT to read the code and explain what it does:
+I generally prefer reading code myself, but if the task becomes time-consuming or confusing, I ask ChatGPT to explain it. For example:
 
 ```
 Please explain what are @relation and the fields and references that come after it. Also, please tell me what does idexes like @@index([AccountID]) do.
 ```
 
+What I like most is time saved: instead of researching each keyword or reading long documentation, I can get an explanation quickly.
 
-What I like the AI the most is that it helps me save time by doing stuff for me. By asking an AI to explain code, I don't need to read the code myself, and don't need to do research on what each element does. The benefit is time-saving, but how about drawbacks? My answer to this question right now is, there is no drawback.
+As for drawbacks, my honest answer right now is that I don't feel one strongly. Nevertheless, the risk is reduce of ability to read unfamiliar code confidently without help.
 
 ### Writing code
 
-As mentioned above, writing code is what I let ChatGPT helped frequently on my final project. I let ChatGPT edit existing codes as well. Letting AI write code is beneficial because it saves time. However, there is drawbacks. Sometimes ChatGPT's code does not fit the needs exactly, so manual code review and editing is still required; but it is still better than writing the code ourselves from scratch.
+As mentioned earlier, I frequently let ChatGPT help with writing code for Wonkes, including editing existing code. The benefit is clear: speed. The drawback is also realistic: sometimes ChatGPT's output doesn't match the needs exactly, so I still need manual review and edits. But it is faster than writing all code from scratch anyway.
 
-Just for example, one prompt I had for ChatGPT was
+One prompt I used was:
 
 ```
 Right now I am to write the code for the right side of the merchandise detail page. I will need a merch object for testing. The data model for a merchandise in prisma.schema is model Merch { MerchID Int @id @unique @default(autoincrement())...please create an object name testMerch based on these information.
@@ -102,7 +123,7 @@ Right now I am to write the code for the right side of the merchandise detail pa
 
 ### Documenting code
 
-Honestly, if I remember correctly, the most documentation of codes I did in ICS 314 was writing comments for some of the code in my final project.
+Honestly, the most documentation I did in ICS 314 was writing comments for parts of the final project. For example:
 
 ```
 /**
@@ -117,8 +138,7 @@ export type MerchImage = {
 };
 ```
 
-
-There is not much hardships on these that will require me to ask an AI for help, so I did not used AI on documenting code in ICS 314.
+Since this wasn't very hard, I didn't use AI much for documentation.
 
 ### Quality assurance
 
