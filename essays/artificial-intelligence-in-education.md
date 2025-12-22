@@ -57,7 +57,7 @@ Yes, I often write long prompts, although large portion of them are confides. Ch
 
 The part of the course where I used AI the most was the final project, [Wonkes](https://wonkes-manoa.github.io/), which I built with teammates and ChatGPT.
 
-Even though it was a school project, I didn't treat it as something to do in the simplest possible way (even if ChatGPT sometimes pushes that style). I planned a lot for Wonkes, which created a lot of work. My usual workflow was: I do the design and decisions, and I let ChatGPT help with the boring but necessary parts like generating a page skeleton or formatting a form. For example, I used prompts like this to speed up page development:
+Even though it was a school project, I didn't treat it as something to do in the simplest possible way (even if ChatGPT sometimes pushes that style). I planned a lot for Wonkes, which created a lot of work. My usual workflow was: I do the design and decisions, and I let ChatGPT help with the boring but necessary parts like making a page skeleton or formatting a form. For example, I used prompts like this to speed up sign out page development:
 
 ```
 Now the Merch Detail page is finished. The next task is to redesign the Logout page. Once the user clicks logout, they will be redirected to this page, where the user is being asked whether or not the user is sure to log out. There is a button that user clicks to confirm logout, and a button to cancel. Please redesign the Logout page based on the following template: 'use client'; import { signOut } from 'next-auth/react'; import { Button, Col, Row } from 'react-bootstr…
@@ -81,7 +81,7 @@ But there is also a cost: if I let AI do the boring parts, I get less practice d
 
 ### Learning a concept or tutorial
 
-Most tutorials in the class were clear enough that I didn't need AI. However, one exception was connecting pgAdmin 4 on my computer to a local database. pgAdmin asked for many configuration values, and I didn't know where to find them. I searched online, and an AI tool (I think it was called "AI Overview") gave a clear step-by-step guide that helped me build the connection successfully.
+Most tutorials in the class were clear enough that I didn't need AI's help. However, one exception was connecting pgAdmin 4 on my computer to a local database. pgAdmin asked for many configuration values, and I didn't know where to find them. I searched online, and an AI tool (I think it was called "AI Overview") gave a clear step-by-step guide that helped me build the connection successfully.
 
 There wasn't much cost, and the benefit was huge: I no longer needed to query databases through the terminal with command lines.
 
