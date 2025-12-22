@@ -39,7 +39,7 @@ Since WODs are timed, every second matters. In timed quizzes and exams I tend to
 
 Practice WODs were similar: still timed quizzes, but more focused on training rather than evaluating our learning status. I still usually did them myself rather than using AI.
 
-Honestly, I don't have a strong logical reason for that. Maybe a habit or self-challenge the strong one? But the trade-off was the same: AI could maybe provide quick answers, but it could also waste time.
+Honestly, I don't have a logical reason for that. Maybe a habit or self-challenge of the strong one? But the trade-off was the same: AI could maybe provide quick answers, but it could also waste time.
 
 ### The essays
 
