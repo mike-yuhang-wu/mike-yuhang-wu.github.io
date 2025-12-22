@@ -97,7 +97,7 @@ I didn't use AI to answer classmates' smart questions. The reason is also simple
 
 ### Coding examples
 
-I did not ask AI for small coding examples like "Give an example of how to generate a random number between 10000 to 99999." If I'm going to ask an AI, I usually prefer asking directly for the code I need in my situation. I'm busy and I try to save time, so example-only prompts aren't my style.
+I did not ask AI for small coding examples like "Give an example of how to generate a random number between 10000 to 99999." If I'm going to ask an AI, I usually prefer asking directly for the code I need in my situation. I'm busy and I try to save time, so example-only prompts would be too time-consuming and therefore aren't my style.
 
 ### Explaining code
 
