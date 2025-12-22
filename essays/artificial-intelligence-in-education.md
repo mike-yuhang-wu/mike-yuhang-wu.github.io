@@ -48,7 +48,10 @@ The class also assigned writing tasks—essays about what we learned and what we
 English is not my first language, and I didn't learn it well when I was young, so AI was extremely helpful for improving grammar and tone for my essay. One prompt I gave ChatGPT was:
 
 ```
-Okay, we finally finished Wonkes! Alright, indeed it is the due date of Wonkes has passed and we have to submit what we have. Luckily it turns out our grades are nice: we got an A overall. Yay! The next thing is to wickedly utilize Wonkes to make us more like a professional by writing essays about the effort we spent. Can you read the following essay and improve it, give it a conclusion, and an interesting title? ## Why effort estimation? In the rougly one…
+Okay, we finally finished Wonkes! Alright, indeed it is the due date of Wonkes has passed and we have to submit what we have.
+Luckily it turns out our grades are nice: we got an A overall. Yay! The next thing is to wickedly utilize Wonkes to make us
+more like a professional by writing essays about the effort we spent. Can you read the following essay and improve it, give
+it a conclusion, and an interesting title? ## Why effort estimation? In the rougly one…
 ```
 
 Yes, I often write long prompts, although large portion of them are confides. ChatGPT usually improved my essay a lot, although I still needed to revise the output manually because ChatGPT sometimes moves too quickly through ideas, making text more like a summary rather than explanation. The cost of using AI here felt like nothing, and the benefit was high.
@@ -60,19 +63,64 @@ The part of the course where I used AI the most was the final project, [Wonkes](
 Even though it was a school project, I didn't treat it as something to do in the simplest possible way (even if ChatGPT sometimes pushes that style). I planned a lot for Wonkes, which created a lot of work. My usual workflow was: I do the design and decisions, and I let ChatGPT help with the boring but necessary parts like making a page skeleton or formatting a form. For example, I used prompts like this to speed up sign out page development:
 
 ```
-Now the Merch Detail page is finished. The next task is to redesign the Logout page. Once the user clicks logout, they will be redirected to this page, where the user is being asked whether or not the user is sure to log out. There is a button that user clicks to confirm logout, and a button to cancel. Please redesign the Logout page based on the following template: 'use client'; import { signOut } from 'next-auth/react'; import { Button, Col, Row } from 'react-bootstr…
+Now the Merch Detail page is finished. The next task is to redesign the Logout page. Once the user clicks logout, they will
+be redirected to this page, where the user is being asked whether or not the user is sure to log out. There is a button that
+user clicks to confirm logout, and a button to cancel. Please redesign the Logout page based on the following template:
+
+'use client';
+
+import { signOut } from 'next-auth/react';
+import { Button, Col, Row } from 'react-bootstr…
 ```
 
 When problems happened and I couldn't find a solution, I asked ChatGPT to inspect code and suggest causes:
 
 ```
-There is a problem that we just found on Wonkes: on dev site images can upload normally when creating a new merch, but on production site only one image can upload successfully and more than one image will fail. The program still notify that the adding/editing merch is successful, but the image did not actually get uploaded to the database (I found no database entry created in the database). What might be the problem, please check the code. The code for add merch form is 'use client'; import { useSession } from 'next-auth/react'; import { Button, Card, Col, Container…
+There is a problem that we just found on Wonkes: on dev site images can upload normally when creating a new merch, but on
+production site only one image can upload successfully and more than one image will fail. The program still notify that the
+adding/editing merch is successful, but the image did not actually get uploaded to the database (I found no database entry
+created in the database). What might be the problem, please check the code. The code for add merch form is
+
+'use client';
+import { useSession } from 'next-auth/react';
+import { Button, Card, Col, Container…
 ```
 
 I also used ChatGPT for language and UI text improvement, like making search bar placeholders shorter:
 
 ```
-I am having a few ideas of what to put as placeholder in seachbars for listings. <Form> <Form.Group controlId="search" className="mb-3"> <Form.Control type="text" placeholder={wordBank[Math.floor(Math.random() * wordBank.length)]} value={search} onChange={(e) => setSearch(e.target.value)} /> </Form.Group> </Form>. Here are the placeholders that will be picked at random. const wordBank = [ '(„• ᴗ •„) Let\'s search something!', '(　-_･) ︻デ═一 ▸ What are you aiming for?', '(⸝⸝⸝O﹏ O⸝⸝⸝) What have we got today?', '(⸝⸝> ᴗ•⸝⸝) Good luck searching your favorite!', '<(￣︶￣)> Proud of what you want today?', 'ヽ(・∀・)ﾉ Aloha, what can search bar find you today?', '(///▽///) Would you embarrass when you search for certain stuff', '(×﹏×) RIP', '(⊃｡•́‿•̀｡)⊃ Hug what you like.', '౦０o ｡ (‾́。‾́ )y~~ Wonkes\' policy banned cigar from sale.', ]; Can you shorten the phrase as much as possible without losing too much of its meaning? Hard words is okay.
+I am having a few ideas of what to put as placeholder in seachbars for listings.
+
+<Form>
+  <Form.Group
+    controlId="search"
+    className="mb-3"
+  >
+    <Form.Control
+      type="text"
+      placeholder={wordBank[Math.floor(Math.random() * wordBank.length)]}
+      value={search}
+      onChange={(e) => setSearch(e.target.value)}
+    />
+  </Form.Group>
+</Form>
+
+Here are the placeholders that will be picked at random.
+
+const wordBank = [
+  '(„• ᴗ •„) Let\'s search something!',
+  '(　-_･) ︻デ═一 ▸ What are you aiming for?',
+  '(⸝⸝⸝O﹏ O⸝⸝⸝) What have we got today?',
+  '(⸝⸝> ᴗ•⸝⸝) Good luck searching your favorite!',
+  '<(￣︶￣)> Proud of what you want today?',
+  'ヽ(・∀・)ﾉ Aloha, what can search bar find you today?',
+  '(///▽///) Would you embarrass when you search for certain stuff',
+  '(×﹏×) RIP',
+  '(⊃｡•́‿•̀｡)⊃ Hug what you like.',
+  '౦０o ｡ (‾́。‾́ )y~~ Wonkes\' policy banned cigar from sale.',
+];
+
+Can you shorten the phrase as much as possible without losing too much of its meaning? Hard words is okay.
 ```
 
 In the final project, AI gave me a lot of value. The biggest benefit was time: I saved time on repetitive work and spent more time on design choices, structure, and debugging.
@@ -104,7 +152,8 @@ I did not ask AI for small coding examples like "Give an example of how to gener
 I generally prefer reading code myself, but if the task becomes time-consuming or confusing, I ask ChatGPT to explain it. For example:
 
 ```
-Please explain what are @relation and the fields and references that come after it. Also, please tell me what does idexes like @@index([AccountID]) do.
+Please explain what are @relation and the fields and references that come after it. Also, please tell me what does idexes
+like @@index([AccountID]) do.
 ```
 
 What I like most is time saved: instead of researching each keyword or reading long documentation, I can get an explanation quickly.
@@ -118,7 +167,13 @@ As mentioned earlier, I frequently let ChatGPT help with writing code for Wonkes
 One prompt I used was:
 
 ```
-Right now I am to write the code for the right side of the merchandise detail page. I will need a merch object for testing. The data model for a merchandise in prisma.schema is model Merch { MerchID Int @id @unique @default(autoincrement())...please create an object name testMerch based on these information.
+Right now I am to write the code for the right side of the merchandise detail page. I will need a merch object for testing.
+The data model for a merchandise in prisma.schema is
+
+model Merch {
+  MerchID Int @id @unique @default(autoincrement())
+
+…please create an object name testMerch based on these information.
 ```
 
 ### Documenting code
@@ -147,19 +202,35 @@ While working on Wonkes, I ran into many bugs: forms not submitting, missing use
 The debug problem I remember most was the modified sign-in system. The template originally used email address and password as credential. We changed it to use username and password, and then sign in started failing. I inserted print statements to locate where execution stopped and asked ChatGPT what could cause it. For example:
 
 ```
-I added some checkpoints inside the authorize function: async authorize(credentials) { console.log('F'); if (!credentials?.username || !credentials.password) { console.log('MISSING CREDENTIAL'); return null; }…I read the terminal after a submission, and BEGIN QUERY is printed onto the terminal, and then followed by POST /api/auth/callback/credentials 401 in 178ms. Nothing else printed onto the terminal after that. Did the query failed or never complete, causing the sign in to fail?
+I added some checkpoints inside the authorize function:
+
+async authorize(credentials) {
+  console.log('F');
+  if (!credentials?.username || !credentials.password) {
+    console.log('MISSING CREDENTIAL');
+    return null;
+  }
+
+…I read the terminal after a submission, and BEGIN QUERY is printed onto the terminal, and then followed by POST
+/api/auth/callback/credentials 401 in 178ms. Nothing else printed onto the terminal after that. Did the query failed or
+never complete, causing the sign in to fail?
 ```
 
 Later, I found an error message about database connection failure:
 
 ```
-When I manually insert the password, I inserted changeme as is, not hashed. After catching the error thrown during the query, the following is printed onto the terminal: BEGIN QUERY E QUERY FAILED: PrismaClientInitializationError: Invalid prisma.account.findUnique() invocation: Can't reach database server at ***:5432 Please make sure your database server is running at ***:5432. at $n.handleRequestError
+When I manually insert the password, I inserted changeme as is, not hashed. After catching the error thrown during the
+query, the following is printed onto the terminal: BEGIN QUERY E QUERY FAILED: PrismaClientInitializationError: Invalid
+prisma.account.findUnique() invocation: Can't reach database server at ***:5432 Please make sure your database server
+is running at ***:5432. at $n.handleRequestError
 ```
 
 Eventually, the root cause was surprisingly small: an extra semicolon (;) in an environment variable caused the system to misread a value. Probably I wrote too much PHP and TypeScript so I mistakenly wrote a trailing semicolon without noticing.
 
 ```
-After adjusting the environment variables, the database is connected. After bypassing the hash thingie, using credentials.password === account.Password instead of compare(), I logged in successfully! Now let's work around the hash related stuff.
+After adjusting the environment variables, the database is connected. After bypassing the hash thingie, using
+credentials.password === account.Password instead of compare(), I logged in successfully! Now let's work around the
+hash related stuff.
 ```
 
 Without ChatGPT, this debugging process might have taken days. With ChatGPT, it shrank to about two hours. The cost: fewer days of hard-earned debugging experience. The benefit: I could quickly continue working on Wonkes.
@@ -209,4 +280,4 @@ The future should focus on teaching students how to use AI responsibly: use it a
 In conclusion, AI is a powerful tool for saving time and a convenient tutor for learning, especially in software engineering courses like ICS 314. I recommend AI as a support for learning for future students, but with one warning: if AI is used as a shortcut to avoid thinking, it stops being educational and becomes a danger.
 
 Note:
-ChatGPT was used to help illustrating the image above and editing this essay.
+ChatGPT was used to help illustrating the image above and editing this essay. AI prompts above was reformatted for better reading experience, but still nearly the same as the original text.
