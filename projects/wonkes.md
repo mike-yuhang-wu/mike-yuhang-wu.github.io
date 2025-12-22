@@ -117,3 +117,6 @@ Although ChatGPT was able to write the code, but there were still portions of th
 Another precious experience I gained was teamwork. This was the first time I worked in a team of more than two people for a school project, and I felt I became more extroverted upon the end of this project.
 
 <sup>1</sup>Unfortunately, due to limited budget Wonkes did not survive the 2025 winter, and the Wonkes storefront may no longer be available after January 14, 2026.
+
+Note:
+ChatGPT was used to help illustrating some images for this essay and editing this essay.
