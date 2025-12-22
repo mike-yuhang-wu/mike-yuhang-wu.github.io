@@ -142,30 +142,35 @@ Since this wasn't very hard, I didn't use AI much for documentation.
 
 ### Quality assurance
 
-While working on my final project Wonkes, there is many problems like form not submitting, no response for user appear while it should, or wrong response shown to the user. The problem that I remember the most that I solved with ChatGPT was a problem on the modified sign in credential system in Wonkes. The original system accept email address and password as credentials, and we changed them to username and password. The problem was that the sign in fails after the system is modified. I inserted many print statements in the code to see where the execution stops, and asked ChatGPT what might be the reason for the stop.
+While working on Wonkes, I ran into many bugs: forms not submitting, missing user feedback, or the wrong UI response.
+
+The debug problem I remember most was the modified sign-in system. The template originally used email address and password as credential. We changed it to use username and password, and then sign in started failing. I inserted print statements to locate where execution stopped and asked ChatGPT what could cause it. For example:
 
 ```
 I added some checkpoints inside the authorize function: async authorize(credentials) { console.log('F'); if (!credentials?.username || !credentials.password) { console.log('MISSING CREDENTIAL'); return null; }…I read the terminal after a submission, and BEGIN QUERY is printed onto the terminal, and then followed by POST /api/auth/callback/credentials 401 in 178ms. Nothing else printed onto the terminal after that. Did the query failed or never complete, causing the sign in to fail?
 ```
+
+Later, I found an error message about database connection failure:
+
 ```
 When I manually insert the password, I inserted changeme as is, not hashed. After catching the error thrown during the query, the following is printed onto the terminal: BEGIN QUERY E QUERY FAILED: PrismaClientInitializationError: Invalid prisma.account.findUnique() invocation: Can't reach database server at ***:5432 Please make sure your database server is running at ***:5432. at $n.handleRequestError
 ```
 
-Eventually, the root of the problem was an extra semicolon (;) appear on an environment variable that cause the system to misread something.
+Eventually, the root cause was surprisingly small: an extra semicolon (;) in an environment variable caused the system to misread a value. Probably I wrote too much PHP and TypeScript so I mistakenly wrote a trailing semicolon without noticing.
 
 ```
 After adjusting the environment variables, the database is connected. After bypassing the hash thingie, using credentials.password === account.Password instead of compare(), I logged in successfully! Now let's work around the hash related stuff.
 ```
 
-Without ChatGPT, this debug might take days, but ChapGPT shrank it to two hours. The cost? The lost in days of debugging experience.
+Without ChatGPT, this debugging process might have taken days. With ChatGPT, it shrank to about two hours. The cost: fewer days of hard-earned debugging experience. The benefit: I could quickly continue working on Wonkes.
 
 ### Other uses
 
-Remember that ChatGPT is capable of drawing stuffs. I asked ChatGPT to design an icon for Wonkes (and that icon was so nice that it eventually become our logo for Wonkes).
-
 <img width="300px" class="rounded float-start me-2 mt-2" src="../img/artificial-intelligence-in-education/sunset-wonkes.png">
 
-I asked ChatGPT to draw other pictures as well, such as the background image for the 404 not found page, as well as the background image for the coming-soon page. ChatGPT saved me a lot of time that I would have used on designing, drawing, or seeking these images.
+ChatGPT can draw stuffs. I asked it to design an icon for Wonkes, and it turned out so good that it became our logo.
+
+I also used ChatGPT to create other visuals, such as a background image for the [404 not found page](https://wonkes.vercel.app/nowhere) and the [coming-soon page](https://wonkes.vercel.app/coming-soon). It saved me time I would have spent designing, drawing, or searching for images.
 
 ## AI's impact on learning and understanding
 
