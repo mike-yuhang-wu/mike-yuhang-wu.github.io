@@ -33,7 +33,7 @@ In class, we had timed quizzes called "workout of the day" or WODs. WODs focused
 
 This is the part of the class where I used AI the least. The instructions were often long, and sometimes in the form of images. I didn’t think I could quickly paste everything into an AI tool in a way that would help.
 
-Since WODs are timed, every second matters. In timed quizzes and exams I tend to turn in my work at the very last moment, because I don't want to waste time I could spend checking my work. For that reason, doing WODs myself was usually the best option. AI might give faster answers, but it also risks costing time and producing something not reliable at all.
+Since WODs are timed, every second matters. In timed quizzes and exams I tend to turn in my work at the very last moment, because I don't want to waste time I could spend checking my work. Similarly, AI might give faster answers, but it also risks costing time and producing something not reliable at all. For that reason, doing WODs myself was usually the best option.
 
 ### The in-class practice WODs
 
