@@ -184,6 +184,8 @@ I have also seen AI used in real-world work. In the organization where I worked,
 
 A common concern about AI is whether it makes people lose the ability to solve problems themselves. For people who don't want to think, AI can become a tool for getting answers without thinking or learning.
 
+For example, it is not learning when one ask AI to write code for a task, then repeatedly testing and requesting for modification on the code until it works, because the person never know what didn't work and what made the final solution work.
+
 AI is like a double-edged sword. AI can be a tutor that supports learning all day, but it can also act like a *digital slave* that hands out solutions for free. I can ask ChatGPT to explain code, or I could ask it to write me entire Wonkes project. Whether AI helps learning depends on the user's willingness to learn. I'm proud to say I'm interested in learning, so AI functions more like a tutor for me than a cheater's treasure.
 
 AI has real opportunity in software engineering education, but students should stay aware of the temptation to stop thinking.
